@@ -1,0 +1,6 @@
+title: learny
+description: List of free resources for learning various technologies
+repository: zsevic/learny
+theme: jekyll-theme-midnight
+plugins:
+  - jemoji
