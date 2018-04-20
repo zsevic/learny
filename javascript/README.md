@@ -196,6 +196,8 @@ List of free resources for learning JavaScript technologies
 
 [How to code Chrome’s T-Rex as a Telegram game using Node.js](https://medium.freecodecamp.org/how-to-code-chromes-t-rex-as-a-telegram-game-using-node-js-cbcf42f76f4b)
 
+[Web Developer Roadmap - 2018](https://github.com/kamranahmedse/developer-roadmap)
+
 ## Websites with interactive courses
 
 [Codecademy](https://www.codecademy.com/)
