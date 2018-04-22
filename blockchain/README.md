@@ -38,6 +38,8 @@ An introduction to cryptography and cryptanalysis [Serbian](http://poincare.matf
 
 [Truffle](https://github.com/trufflesuite/truffle)
 
+[Ganache CLI](https://github.com/trufflesuite/ganache-cli)
+
 ## Smart contracts
 
 [Basics of Solidity](https://www.bitdegree.org/courses/solidity-smart-contract/)
