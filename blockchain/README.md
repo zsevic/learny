@@ -42,6 +42,8 @@ An introduction to cryptography and cryptanalysis [Serbian](http://poincare.matf
 
 ## Smart contracts
 
+[Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+
 [Solidity](https://github.com/ethereum/solidity)
 
 [Basics of Solidity](https://www.bitdegree.org/courses/solidity-smart-contract/)
