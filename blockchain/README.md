@@ -42,7 +42,11 @@ An introduction to cryptography and cryptanalysis [Serbian](http://poincare.matf
 
 ## Smart contracts
 
+[Solidity](https://github.com/ethereum/solidity)
+
 [Basics of Solidity](https://www.bitdegree.org/courses/solidity-smart-contract/)
+
+[OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity)
 
 ## Cryptocurrencies
 
