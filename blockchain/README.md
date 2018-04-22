@@ -38,9 +38,9 @@ An introduction to cryptography and cryptanalysis [Serbian](http://poincare.matf
 
 [Truffle](https://github.com/trufflesuite/truffle)
 
-## Programming languages for smart contracts
+## Smart contracts
 
-[Solidity](https://github.com/ethereum/solidity)
+[Basics of Solidity](https://www.bitdegree.org/courses/solidity-smart-contract/)
 
 ## Cryptocurrencies
 
