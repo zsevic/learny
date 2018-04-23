@@ -12,6 +12,10 @@ An introduction to cryptography and cryptanalysis [Serbian](http://poincare.matf
 
 [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/)
 
+## Guides
+
+[The authoritative guide to blockchain development](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
+
 ## Bitcoin
 
 [White Paper](https://bitcoin.org/bitcoin.pdf)
@@ -42,9 +46,15 @@ An introduction to cryptography and cryptanalysis [Serbian](http://poincare.matf
 
 ## Smart contracts
 
+[Ethereum ERC20 Tokens Explained](https://medium.com/@james_3093/ethereum-erc20-tokens-explained-9f7f304055df)
+
 [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
+## Solidity
+
 [Solidity](https://github.com/ethereum/solidity)
+
+[Remix - Solidity IDE](https://remix.ethereum.org)
 
 [Basics of Solidity](https://www.bitdegree.org/courses/solidity-smart-contract/)
 
