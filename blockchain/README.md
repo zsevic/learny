@@ -6,15 +6,25 @@ List of free resources for learning blockchain technologies
 
 An introduction to cryptography and cryptanalysis [Serbian](http://poincare.matf.bg.ac.rs/~ezivkovm//nastava/kripto.pdf) [English](http://math.scu.edu/~eschaefe/book.pdf)
 
+[Cryptography I](https://www.coursera.org/learn/crypto)
+
 ## Data structures
 
 [Merkle tree introduction](https://medium.com/@evankozliner/merkle-tree-introduction-4c44250e2da7)
 
 [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/)
 
+## Game theory
+
+[Game Theory](https://www.coursera.org/learn/game-theory-1)
+
 ## Guides
 
 [The authoritative guide to blockchain development](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
+
+[How To Become A Blockchain Developer: Crash Course!](https://blockgeeks.com/guides/blockchain-developer/)
+
+[What You Need to Learn to become an Expert in Blockchain Tech](https://medium.com/@davekaj/what-you-should-really-learn-to-become-an-expert-in-blockchain-technology-b26c3ca1786c)
 
 ## Bitcoin
 
@@ -25,6 +35,8 @@ An introduction to cryptography and cryptanalysis [Serbian](http://poincare.matf
 ## Ethereum
 
 [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
+
+[Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 
 [Ethereum For Beginners: Build A Hello World Blockchain Apps](https://www.udemy.com/blockchain-application/)
 
