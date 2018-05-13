@@ -2,21 +2,37 @@
 
 List of free resources for learning blockchain technologies
 
-## Cryptography
-
-An introduction to cryptography and cryptanalysis [Serbian](http://poincare.matf.bg.ac.rs/~ezivkovm//nastava/kripto.pdf) [English](http://math.scu.edu/~eschaefe/book.pdf)
-
-[Cryptography I](https://www.coursera.org/learn/crypto)
-
 ## Data structures
 
 [Merkle tree introduction](https://medium.com/@evankozliner/merkle-tree-introduction-4c44250e2da7)
 
 [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/)
 
+## Cryptography
+
+An introduction to cryptography and cryptanalysis [Serbian](http://poincare.matf.bg.ac.rs/~ezivkovm//nastava/kripto.pdf) [English](http://math.scu.edu/~eschaefe/book.pdf)
+
+[Cryptography I](https://www.coursera.org/learn/crypto)
+
+## Computer networking
+
+[Networking for Web Developers](https://classroom.udacity.com/courses/ud256)
+
+[Computer networking](https://www.udacity.com/course/computer-networking--ud436)
+
+## Distributed systems
+
+[Introduction to Operating Systems](https://classroom.udacity.com/courses/ud923)
+
+[Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)
+
 ## Game theory
 
 [Game Theory](https://www.coursera.org/learn/game-theory-1)
+
+## Mechanism design
+
+[A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
 
 ## Guides
 
