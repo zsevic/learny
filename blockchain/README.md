@@ -22,6 +22,8 @@ An introduction to cryptography and cryptanalysis [Serbian](http://poincare.matf
 
 ## Distributed systems
 
+[5 concepts of Software Distributed Systems. Benefits of Distributed Architectures](https://dev.to/dianamaltseva8/5-concepts-of-software-distributed-systems-benefits-of-distributed-architectures-a1i)
+
 [Introduction to Operating Systems](https://classroom.udacity.com/courses/ud923)
 
 [Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)
@@ -30,9 +32,23 @@ An introduction to cryptography and cryptanalysis [Serbian](http://poincare.matf
 
 [Game Theory](https://www.coursera.org/learn/game-theory-1)
 
+[Game Theory II: Advanced Applications](https://www.coursera.org/learn/game-theory-2)
+
 ## Mechanism design
 
 [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
+
+[Mechanism Theory](https://web.stanford.edu/~jacksonm/mechtheo.pdf)
+
+[Mechanism Design](https://users.cs.duke.edu/~conitzer/thesis_ch4.pdf)
+
+## Cryptoeconomics
+
+[Cryptoeconomics 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
+
+[Cryptoeconomics 102](https://hackernoon.com/cryptoeconomics-102-a87d000e3938)
+
+[What is cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/)
 
 ## Guides
 
@@ -96,8 +112,12 @@ An introduction to cryptography and cryptanalysis [Serbian](http://poincare.matf
 
 [Startit (Serbian)](https://startit.rs/category/blockchain/)
 
+[Cointelegraph (Serbian)](https://rs.cointelegraph.com/)
+
 ## Miscellaneous
 
 [The science of the blockchain](https://edoc.site/roger-wattenhofer-the-science-of-the-blockchain-pdf-free.html)
+
+[How to Build a Decentralized Full Stack App in Ethereum and React](https://medium.com/@takleakshar/how-to-build-a-decentralized-full-stack-app-in-ethereum-and-react-42e63d45a208)
 
 [Naivechain](https://github.com/lhartikk/naivechain)
