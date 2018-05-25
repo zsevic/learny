@@ -6,3 +6,4 @@ Lists of free resources for learning various technologies
 * [git](./git)
 * [blockchain](./blockchain)
 * [machine learning](./machine_learning)
+* [security](./security)
