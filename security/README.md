@@ -14,4 +14,6 @@ List of free resources for learning about security
 
 - [Advanced Penetration Testing](https://www.cybrary.it/course/advanced-penetration-testing/)
 
+- [Secure Coding](https://www.cybrary.it/course/secure-coding/)
+
 - [PentesterLab exercises](https://pentesterlab.com/exercises?dir=desc&only=free&sort=published_at)
