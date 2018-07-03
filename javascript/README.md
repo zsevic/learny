@@ -40,6 +40,8 @@ List of free resources for learning JavaScript technologies
 
 [Grab Front End Guide](https://github.com/grab/front-end-guide)
 
+[Web Developer Roadmap - 2018](https://github.com/kamranahmedse/developer-roadmap)
+
 ## TypeScript
 
 [Learn TypeScript](https://www.tutorialspoint.com/typescript/index.htm)
@@ -59,6 +61,12 @@ List of free resources for learning JavaScript technologies
 [Scaling Node.js Applications](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
 
 [How to get create-react-app to work with a Node.js back-end API](https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0)
+
+[Node js Elastic Search Tutorial Example](https://appdividend.com/2018/06/29/node-js-elastic-search-tutorial-example/)
+
+[How to make beautiful, simple CLI apps with Node](https://dev.to/hugo__df/how-to-make-beautiful-simple-cli-apps-with-node-c1b)
+
+[Clustering & Inter Process Communication (IPC) in Node.js](https://medium.com/js-imaginea/clustering-inter-process-communication-ipc-in-node-js-748f981214e9)
 
 ## Express.js
 
@@ -89,6 +97,12 @@ List of free resources for learning JavaScript technologies
 [Learnyoumongo](https://github.com/evanlucas/learnyoumongo)
 
 [Introduction to Mongoose for MongoDB](https://dev.to/theoutlander/introduction-to-mongoose-for-mongodb--3c30)
+
+## GraphQL
+
+[How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger](https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
+
+[How to finish setting up your powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger (Part II)](https://medium.freecodecamp.org/how-to-set-up-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-part-ii-80266790a3ac)
 
 ## Electron
 
@@ -154,6 +168,8 @@ List of free resources for learning JavaScript technologies
 
 [Facebook Jest, the JS testing tool for people who hate writing tests](https://blog.cloudboost.io/first-run-facebook-jest-the-js-testing-tool-for-people-who-hate-writing-tests-30b5bc4b9dd2)
 
+[A quick introduction to test driven development with Jest](https://medium.freecodecamp.org/a-quick-introduction-to-test-driven-development-with-jest-cac71cb94e50https://medium.freecodecamp.org/a-quick-introduction-to-test-driven-development-with-jest-cac71cb94e50)
+
 [Chai](https://github.com/chaijs/chai)
 
 [Unit-testing: best practices](https://dev.to/ice_lenor/unit-testing-best-practices-27ec)
@@ -182,6 +198,8 @@ List of free resources for learning JavaScript technologies
 
 [TravisCI](https://github.com/travis-ci/travis-ci)
 
+[Setup Continuous Integration with Travis CI in Your Nodejs App](https://dev.to/lauragift21/setup-continuous-integration-with-travis-ci-in-your-nodejs-app-26i2)
+
 ## Documentation
 
 [JSDoc](https://github.com/jsdoc3/jsdoc)
@@ -202,7 +220,7 @@ List of free resources for learning JavaScript technologies
 
 [How to code Chrome’s T-Rex as a Telegram game using Node.js](https://medium.freecodecamp.org/how-to-code-chromes-t-rex-as-a-telegram-game-using-node-js-cbcf42f76f4b)
 
-[Web Developer Roadmap - 2018](https://github.com/kamranahmedse/developer-roadmap)
+[NO, you most probably don’t need Express in your Node.js REST API](https://medium.com/car2godevs/there-are-expressjs-alternatives-590d14c58c1c)
 
 ## Websites with interactive courses
 
