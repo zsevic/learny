@@ -2,18 +2,22 @@
 
 List of free resources for learning about security
 
-- [Hacker101](https://www.hacker101.com/)
-
-- [Penetration Testing and Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/)
-
-- [Cryptography](https://www.cybrary.it/course/cryptography/)
-
-- [Web Application Penetration Testing](https://www.cybrary.it/course/web-application-pen-testing/)
-
 - [CompTIA Security+](https://www.cybrary.it/course/comptia-security-plus/)
-
-- [Advanced Penetration Testing](https://www.cybrary.it/course/advanced-penetration-testing/)
 
 - [Secure Coding](https://www.cybrary.it/course/secure-coding/)
 
-- [PentesterLab exercises](https://pentesterlab.com/exercises?dir=desc&only=free&sort=published_at)
+Cryptography
+
+- [Cryptography](https://www.cybrary.it/course/cryptography/)
+
+Web security and pentesting
+
+- [Hacker101](https://www.hacker101.com/)
+
+- [Web Application Penetration Testing](https://www.cybrary.it/course/web-application-pen-testing/)
+
+- [Penetration Testing and Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/)
+
+- [Advanced Penetration Testing](https://www.cybrary.it/course/advanced-penetration-testing/)
+
+- [Web for Pentester](https://pentesterlab.com/exercises/web_for_pentester)
