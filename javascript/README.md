@@ -16,6 +16,10 @@ List of free resources for learning JavaScript technologies
 
 [How to use Memoize to cache JavaScript function results and speed up your code](https://medium.freecodecamp.org/understanding-memoize-in-javascript-51d07d19430e)
 
+[A neat little trick with JavaScript's indexOf()](https://dev.to/werninator/a-neat-little-trick-with-javascripts-indexof-4dj5)
+
+[A simple guide to help you understand closures in JavaScript](https://medium.freecodecamp.org/javascript-closures-simplified-d0d23fa06ba4)
+
 ## ES6+
 
 [ES6 for beginners with example](https://dev.to/srebalaji/es6-for-beginners-with-example-c7)
@@ -68,6 +72,16 @@ List of free resources for learning JavaScript technologies
 
 [Clustering & Inter Process Communication (IPC) in Node.js](https://medium.com/js-imaginea/clustering-inter-process-communication-ipc-in-node-js-748f981214e9)
 
+[Securing your Node js api with JSON Web Token](https://dev.to/medaymentn/securing-your-node-js-api-with-json-web-token-5o5)
+
+[Salt Hash passwords using NodeJS crypto](https://ciphertrick.com/2016/01/18/salt-hash-passwords-using-nodejs-crypto/)
+
+[Inspect your node application on a different machine](https://dev.to/attilavm/inspect-your-node-application-on-a-different-machine-3laf)
+
+[Before you bury yourself in packages, learn the Node.js runtime itself](https://medium.freecodecamp.org/before-you-bury-yourself-in-packages-learn-the-node-js-runtime-itself-f9031fbd8b69)
+
+[23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
+
 ## Express.js
 
 [Learn Express](https://www.codecademy.com/learn/learn-express)
@@ -84,6 +98,8 @@ List of free resources for learning JavaScript technologies
 
 [Create React apps with no build configuration](https://github.com/facebook/create-react-app)
 
+[What is React Server Side Rendering and should I use it?](https://dev.to/mladenstojanovic/what-is-react-server-side-rendering-and-should-i-use-it-5b7i)
+
 ## Angular
 
 [An Angular 5 Tutorial: Step by Step Guide to Your First Angular 5 App](https://www.toptal.com/angular/angular-5-tutorial)
@@ -91,6 +107,12 @@ List of free resources for learning JavaScript technologies
 [The best ways to connect to the server using Angular CLI](https://medium.freecodecamp.org/the-best-ways-to-connect-to-the-server-using-angular-cli-b0c6b699716c)
 
 [CLI tool for Angular](https://github.com/angular/angular-cli)
+
+## Vue
+
+[Learn Vue.js for free](https://scrimba.com/g/glearnvue)
+
+[Getting Started With Vue Router](https://scotch.io/tutorials/getting-started-with-vue-router)
 
 ## MongoDB
 
@@ -112,9 +134,21 @@ List of free resources for learning JavaScript technologies
 
 [Learn to use the create-react-native-app for a simple and elegant solution for starting React Native Applications](https://www.facebook.com/eggheadio/videos/1408536319216985/)
 
+[How to integrate Redux into your application with React Native and Expo](https://medium.freecodecamp.org/how-to-integrate-redux-into-your-application-with-react-native-and-expo-ec37c9ca6033)
+
+## socket.io
+
+[You don't need express to get started with socket.io](https://dev.to/sadick/you-dont-need-express-to-get-started-with-socketio-4ieg)
+
 ## Reactive programming
 
+[The Best Explanation of JavaScript Reactivity](https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d)
+
 [Reactive programming and Observable sequences with RxJS in Node.js](https://medium.freecodecamp.org/rxjs-and-node-8f4e0acebc7c)
+
+## Redux
+
+[Learn Redux In One Video - Redux / React Tutorial](https://www.youtube.com/watch?v=9fHQI-dt7QU)
 
 ## Deployment
 
@@ -129,6 +163,8 @@ List of free resources for learning JavaScript technologies
 [Express.js and AWS Lambda — a serverless love story](https://medium.freecodecamp.org/express-js-and-aws-lambda-a-serverless-love-story-7c77ba0eaa35)
 
 ## Chat bots
+
+[Build a simple chat app with node.js and socket.io](https://medium.com/@noufel.gouirhate/build-a-simple-chat-app-with-node-js-and-socket-io-ea716c093088)
 
 [Creating your own Facebook Messenger bot](https://github.com/jw84/messenger-bot-tutorial)
 
@@ -189,6 +225,8 @@ List of free resources for learning JavaScript technologies
 ## Linters/code formatters
 
 [ESLint](https://github.com/eslint/eslint)
+
+[Quick Guide to Linting JavaScript Codebase with ESLint](https://dev.to/lauragift21/quick-guide-to-linting-javascript-codebase-with-eslint-dcf)
 
 [Prettier](https://github.com/prettier/prettier)
 
