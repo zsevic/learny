@@ -56,6 +56,8 @@ List of free resources for learning JavaScript technologies
 
 ## Node.js
 
+[All about Core NodeJS — Part 1](https://codeburst.io/all-about-core-nodejs-part-1-b9f4b0a83278)
+
 [Learnyounode](https://www.github.com/workshopper/learnyounode)
 
 [Your Guide to Building Beautiful Node.js Applications](http://thenodeway.io/)
