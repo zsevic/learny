@@ -16,6 +16,8 @@ List of free resources for learning git
 
 ## Github
 
+[Github Learning Lab](https://lab.github.com/courses)
+
 [A developer's introduction to Github](https://flaviocopes.com/github/)
 
 [Follow these simple rules and you’ll become a Git and GitHub master](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
