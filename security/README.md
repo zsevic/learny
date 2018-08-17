@@ -14,6 +14,8 @@ Web security and pentesting
 
 - [Hacker101](https://www.hacker101.com/)
 
+- [A quick introduction to web security](https://medium.freecodecamp.org/a-quick-introduction-to-web-security-f90beaf4dd41)
+
 - [Web Application Penetration Testing](https://www.cybrary.it/course/web-application-pen-testing/)
 
 - [Penetration Testing and Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/)
