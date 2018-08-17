@@ -14,6 +14,8 @@ List of free resources for learning git
 
 [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
+[Setting Up Your Own Git Server](https://dev.to/erhankilic/setting-up-your-own-git-server--26h6)
+
 ## Github
 
 [Github Learning Lab](https://lab.github.com/courses)
