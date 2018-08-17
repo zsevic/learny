@@ -84,6 +84,8 @@ List of free resources for learning JavaScript technologies
 
 [23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
 
+[Using import/export in node.js with esm](https://medium.com/@jamischarles/using-import-export-in-node-js-with-esm-7ce9153ff63)
+
 ## Express.js
 
 [Learn Express](https://www.codecademy.com/learn/learn-express)
