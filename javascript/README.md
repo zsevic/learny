@@ -20,6 +20,8 @@ List of free resources for learning JavaScript technologies
 
 [A simple guide to help you understand closures in JavaScript](https://medium.freecodecamp.org/javascript-closures-simplified-d0d23fa06ba4)
 
+[Let's learn about Set and its unique functionality in JavaScript](https://medium.freecodecamp.org/lets-learn-about-set-and-its-unique-functionality-in-javascript-5654c5c03de2)
+
 ## ES6+
 
 [ES6 for beginners with example](https://dev.to/srebalaji/es6-for-beginners-with-example-c7)
@@ -155,6 +157,10 @@ List of free resources for learning JavaScript technologies
 [RxJS by Example: Part 1](https://codeburst.io/rxjs-by-example-part-1-ff7f1530071c)
 
 [RxJS by Example: Part 2](https://codeburst.io/rxjs-by-example-part-2-8c6eda15bd7f)
+
+[RxJS by Example: Part 3](https://codeburst.io/rxjs-by-example-part-3-7f37ffa8b9d6)
+
+[RxJS by Example: Part 4](https://codeburst.io/rxjs-by-example-part-4-939603ed3fac)
 
 [Reactive programming and Observable sequences with RxJS in Node.js](https://medium.freecodecamp.org/rxjs-and-node-8f4e0acebc7c)
 
