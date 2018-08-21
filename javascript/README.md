@@ -22,6 +22,8 @@ List of free resources for learning JavaScript technologies
 
 [Let's learn about Set and its unique functionality in JavaScript](https://medium.freecodecamp.org/lets-learn-about-set-and-its-unique-functionality-in-javascript-5654c5c03de2)
 
+[How To Implement Async And Await With Generators](https://medium.freecodecamp.org/how-to-implement-async-and-await-with-generators-11ab0859010f)
+
 ## ES6+
 
 [ES6 for beginners with example](https://dev.to/srebalaji/es6-for-beginners-with-example-c7)
@@ -120,6 +122,8 @@ List of free resources for learning JavaScript technologies
 
 [Getting Started With Vue Router](https://scotch.io/tutorials/getting-started-with-vue-router)
 
+[How you can test your Vue.js apps in less than seven minutes](https://medium.freecodecamp.org/testing-vue-js-applications-vue-test-utils-39ec26ddaa4e)
+
 ## MongoDB
 
 [Learnyoumongo](https://github.com/evanlucas/learnyoumongo)
@@ -179,6 +183,10 @@ List of free resources for learning JavaScript technologies
 ## Serverless
 
 [Express.js and AWS Lambda — a serverless love story](https://medium.freecodecamp.org/express-js-and-aws-lambda-a-serverless-love-story-7c77ba0eaa35)
+
+## Bots
+
+[Creating a simple Twitter Bot in NodeJs in 20 lines of code](https://chatbotslife.com/creating-a-twitter-bot-in-nodejs-in-20-lines-of-code-da9d724ecd98)
 
 ## Chat bots
 
