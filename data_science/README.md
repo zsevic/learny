@@ -10,6 +10,8 @@ List of free resources for learning data science
 
 - Machine Learning [Serbian](http://ml.matf.bg.ac.rs/readings/ml.pdf)
 
+- [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
+
 - [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
 
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
