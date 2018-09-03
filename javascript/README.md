@@ -22,6 +22,8 @@ List of free resources for learning JavaScript technologies
 
 [Let's learn about Set and its unique functionality in JavaScript](https://medium.freecodecamp.org/lets-learn-about-set-and-its-unique-functionality-in-javascript-5654c5c03de2)
 
+[Iterators and generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
+
 [How To Implement Async And Await With Generators](https://medium.freecodecamp.org/how-to-implement-async-and-await-with-generators-11ab0859010f)
 
 ## ES6+
@@ -52,7 +54,9 @@ List of free resources for learning JavaScript technologies
 
 ## TypeScript
 
-[Learn TypeScript](https://www.tutorialspoint.com/typescript/index.htm)
+[Learn TypeScript in 5 minutes](https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb)
+
+[TypeScript Essentials](https://medium.com/@wittydeveloper/typescript-essentials-b7ae85b0f561)
 
 [Using Typescript with Express](https://dev.to/briandgls/using-typescript-with-express--e0k)
 
@@ -226,6 +230,8 @@ List of free resources for learning JavaScript technologies
 
 [Mocha](https://github.com/mochajs/mocha)
 
+[Testing (Codecademy beta courses)](https://www.codecademy.com/beta-catalog/subject/testing)
+
 [Jest](https://github.com/facebook/jest)
 
 [Facebook Jest, the JS testing tool for people who hate writing tests](https://blog.cloudboost.io/first-run-facebook-jest-the-js-testing-tool-for-people-who-hate-writing-tests-30b5bc4b9dd2)
@@ -305,3 +311,7 @@ List of free resources for learning JavaScript technologies
 [Scotch](https://scotch.io/)
 
 [Code for geek](https://codeforgeek.com/)
+
+[Codecademy Articles](https://www.codecademy.com/articles)
+
+[RisingStack](https://blog.risingstack.com/)
