@@ -64,6 +64,8 @@ List of free resources for learning JavaScript technologies
 
 ## Node.js
 
+[The definitive Node.js handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
+
 [All about Core NodeJS — Part 1](https://codeburst.io/all-about-core-nodejs-part-1-b9f4b0a83278)
 
 [Learnyounode](https://www.github.com/workshopper/learnyounode)
