@@ -66,13 +66,15 @@ List of free resources for learning JavaScript technologies
 
 [The definitive Node.js handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 
-[All about Core NodeJS — Part 1](https://codeburst.io/all-about-core-nodejs-part-1-b9f4b0a83278)
+[Before you bury yourself in packages, learn the Node.js runtime itself](https://medium.freecodecamp.org/before-you-bury-yourself-in-packages-learn-the-node-js-runtime-itself-f9031fbd8b69)
 
-[Learnyounode](https://www.github.com/workshopper/learnyounode)
+[All about Core NodeJS — Part 1](https://codeburst.io/all-about-core-nodejs-part-1-b9f4b0a83278)
 
 [Your Guide to Building Beautiful Node.js Applications](http://thenodeway.io/)
 
 [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
+
+[23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
 
 [Scaling Node.js Applications](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
 
@@ -90,17 +92,15 @@ List of free resources for learning JavaScript technologies
 
 [Inspect your node application on a different machine](https://dev.to/attilavm/inspect-your-node-application-on-a-different-machine-3laf)
 
-[Before you bury yourself in packages, learn the Node.js runtime itself](https://medium.freecodecamp.org/before-you-bury-yourself-in-packages-learn-the-node-js-runtime-itself-f9031fbd8b69)
-
-[23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
-
 [Using import/export in node.js with esm](https://medium.com/@jamischarles/using-import-export-in-node-js-with-esm-7ce9153ff63)
+
+[Bundle your Node app to a single executable for Windows, Linux and OsX](https://dev.to/jochemstoel/bundle-your-node-app-to-a-single-executable-for-windows-linux-and-osx-2c89)
 
 ## Express.js
 
 [Learn Express](https://www.codecademy.com/learn/learn-express)
 
-[Really, really basic routing in Node.js with Express](https://medium.freecodecamp.org/really-really-basic-routing-in-nodejs-with-express-d7cad5e3f5d5)
+[Express.js handbook](https://flaviocopes.com/express-handbook/)
 
 ## React
 
@@ -317,3 +317,5 @@ List of free resources for learning JavaScript technologies
 [Codecademy Articles](https://www.codecademy.com/articles)
 
 [RisingStack](https://blog.risingstack.com/)
+
+[Flavio Copes](https://flaviocopes.com/)
