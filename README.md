@@ -2,8 +2,8 @@
 
 Lists of free resources for learning various technologies
 
-* [JavaScript](./javascript)
-* [git](./git)
-* [blockchain](./blockchain)
-* [data science](./data_science)
-* [security](./security)
+- [JavaScript](./javascript)
+- [git](./git)
+- [blockchain](./blockchain)
+- [data science](./data-science)
+- [security](./security)
