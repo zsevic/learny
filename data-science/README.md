@@ -14,13 +14,11 @@ List of free resources for learning data science
 
 - [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
 
-- [Machine Learning - Codecademy](https://www.codecademy.com/learn/machine-learning)
-
 - [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
 
-- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-
 - [Intro to Machine Learning](https://classroom.udacity.com/courses/ud120)
+
+- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 - [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
