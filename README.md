@@ -7,3 +7,4 @@ Lists of free resources for learning various technologies
 - [blockchain](./blockchain)
 - [data science](./data-science)
 - [security](./security)
+- [Python](./python)
