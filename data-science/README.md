@@ -22,7 +22,11 @@ List of free resources for learning data science
 
 - [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
+- [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+
 - [TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
+
+- [Deep Reinforcement Learning Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
 
 ## Statistics and probability
 
