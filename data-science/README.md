@@ -30,6 +30,8 @@ List of free resources for learning data science
 
 - [Deep Reinforcement Learning Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
 
+- [A beginner’s guide to training and deploying machine learning models using Python](https://medium.freecodecamp.org/a-beginners-guide-to-training-and-deploying-machine-learning-models-using-python-48a313502e5a)
+
 ## Statistics and probability
 
 - [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
