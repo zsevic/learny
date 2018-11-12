@@ -28,6 +28,8 @@ List of free resources for learning data science
 
 - [TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 
+- [Spinning Up in Deep RL](http://spinningup.openai.com/en/latest/)
+
 - [Deep Reinforcement Learning Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
 
 - [A beginner’s guide to training and deploying machine learning models using Python](https://medium.freecodecamp.org/a-beginners-guide-to-training-and-deploying-machine-learning-models-using-python-48a313502e5a)
