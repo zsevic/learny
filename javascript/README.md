@@ -138,6 +138,12 @@ List of free resources for learning JavaScript technologies
 
 ## GraphQL
 
+[How to set up a GraphQL Server using Node.js, Express & MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474)
+
+[GraphQL - Node.js](https://www.howtographql.com/graphql-js/0-introduction/)
+
+[GraphQL - React + Apollo](https://www.howtographql.com/react-apollo/0-introduction/)
+
 [Getting started - Apollo Server](https://www.apollographql.com/docs/apollo-server/v2/getting-started.html)
 
 [How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger](https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
