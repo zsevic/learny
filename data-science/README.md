@@ -26,6 +26,8 @@ List of free resources for learning data science
 
 - [Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
 
+- [Theory of Neural Networks - Deep Learning Without Frameworks](https://www.youtube.com/watch?v=u7n9t1cBei8)
+
 - [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 
 - [Keras - Python Deep Learning Neural Network API](https://www.youtube.com/watch?v=RznKVRTFkBY&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
