@@ -24,9 +24,15 @@ List of free resources for learning data science
 
 - [Learn Machine Learning using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/machine-learning)
 
+- [Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
+
 - [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 
+- [Keras - Python Deep Learning Neural Network API](https://www.youtube.com/watch?v=RznKVRTFkBY&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
+
 - [TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
+
+- [TensorFlow.js - Deep Learning with JavaScript](https://www.youtube.com/watch?v=HEQDRWMK6yY&list=PLZbbT5o_s2xr83l8w44N_g3pygvajLrJ-)
 
 - [Spinning Up in Deep RL](http://spinningup.openai.com/en/latest/)
 
