@@ -4,11 +4,17 @@ List of free resources for learning JavaScript technologies
 
 ## JavaScript
 
+### Basic
+
 [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
 [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 
+[The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
+
 [JavaScript30](https://javascript30.com/)
+
+### Advanced
 
 [How to automate your open source JavaScript project’s most repetitive tasks](https://medium.freecodecamp.org/how-to-setup-productivity-tools-for-an-open-source-javascript-project-c52d403c5087)
 
@@ -64,6 +70,8 @@ List of free resources for learning JavaScript technologies
 
 ## Node.js
 
+### Basic
+
 [The definitive Node.js handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 
 [Before you bury yourself in packages, learn the Node.js runtime itself](https://medium.freecodecamp.org/before-you-bury-yourself-in-packages-learn-the-node-js-runtime-itself-f9031fbd8b69)
@@ -75,6 +83,8 @@ List of free resources for learning JavaScript technologies
 [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
 
 [23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
+
+### Advanced
 
 [Scaling Node.js Applications](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
 
@@ -132,7 +142,9 @@ List of free resources for learning JavaScript technologies
 
 ## MongoDB
 
-[Learnyoumongo](https://github.com/evanlucas/learnyoumongo)
+[The MongoDB basics tutorial](https://flaviocopes.com/mongodb/)
+
+[How to use MongoDB with Node.js](https://flaviocopes.com/node-mongodb/)
 
 [Introduction to Mongoose for MongoDB](https://dev.to/theoutlander/introduction-to-mongoose-for-mongodb--3c30)
 
@@ -170,13 +182,7 @@ List of free resources for learning JavaScript technologies
 
 [The Best Explanation of JavaScript Reactivity](https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d)
 
-[RxJS by Example: Part 1](https://codeburst.io/rxjs-by-example-part-1-ff7f1530071c)
-
-[RxJS by Example: Part 2](https://codeburst.io/rxjs-by-example-part-2-8c6eda15bd7f)
-
-[RxJS by Example: Part 3](https://codeburst.io/rxjs-by-example-part-3-7f37ffa8b9d6)
-
-[RxJS by Example: Part 4](https://codeburst.io/rxjs-by-example-part-4-939603ed3fac)
+[RxJS by Example](https://codeburst.io/rxjs-by-example-part-1-ff7f1530071c)
 
 [Reactive programming and Observable sequences with RxJS in Node.js](https://medium.freecodecamp.org/rxjs-and-node-8f4e0acebc7c)
 
