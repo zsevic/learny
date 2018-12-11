@@ -118,6 +118,8 @@ List of free resources for learning JavaScript technologies
 
 [Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
 
+[An introduction to React Hooks](https://medium.freecodecamp.org/an-introduction-to-react-hooks-12843fcd2fd9)
+
 [How to Learn React — A roadmap from beginner to advanced](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
 
 [Create React apps with no build configuration](https://github.com/facebook/create-react-app)
