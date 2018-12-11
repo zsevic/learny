@@ -304,6 +304,8 @@ List of free resources for learning JavaScript technologies
 
 [How to code Chrome’s T-Rex as a Telegram game using Node.js](https://medium.freecodecamp.org/how-to-code-chromes-t-rex-as-a-telegram-game-using-node-js-cbcf42f76f4b)
 
+[Flying a Drone with React and Node.js](https://www.youtube.com/watch?v=JzFvGf7Ywkk&t=3s)
+
 [NO, you most probably don’t need Express in your Node.js REST API](https://medium.com/car2godevs/there-are-expressjs-alternatives-590d14c58c1c)
 
 ## Websites with interactive courses
