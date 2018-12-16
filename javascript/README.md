@@ -112,6 +112,10 @@ List of free resources for learning JavaScript technologies
 
 [Express.js handbook](https://flaviocopes.com/express-handbook/)
 
+## REST APIs
+
+[The practical guide for Building REST API in Nodejs and MongoDB include Passport and JWT](https://hackernoon.com/the-practical-guide-for-building-rest-api-in-nodejs-and-mongodb-include-passport-and-jwt-476720b70da0)
+
 ## React
 
 [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
@@ -243,6 +247,8 @@ List of free resources for learning JavaScript technologies
 [Yarn](https://github.com/yarnpkg/yarn)
 
 ## Testing
+
+[A guide to unit testing in JavaScript](https://github.com/mawrkus/js-unit-testing-guide)
 
 [Mocha](https://github.com/mochajs/mocha)
 
