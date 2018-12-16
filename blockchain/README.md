@@ -22,11 +22,9 @@ An introduction to cryptography and cryptanalysis [Serbian](http://poincare.matf
 
 ## Distributed systems
 
+[A Thorough Introduction to Distributed Systems](https://medium.freecodecamp.org/a-thorough-introduction-to-distributed-systems-3b91562c9b3c)
+
 [5 concepts of Software Distributed Systems. Benefits of Distributed Architectures](https://dev.to/dianamaltseva8/5-concepts-of-software-distributed-systems-benefits-of-distributed-architectures-a1i)
-
-[Introduction to Operating Systems](https://classroom.udacity.com/courses/ud923)
-
-[Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)
 
 ## Game theory
 
