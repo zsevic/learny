@@ -30,6 +30,8 @@ List of free resources for learning data science
 
 - [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 
+[GANs from Scratch 1: A deep introduction. With code in PyTorch and TensorFlow](https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f)
+
 - [Keras - Python Deep Learning Neural Network API](https://www.youtube.com/watch?v=RznKVRTFkBY&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
 
 - [Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
@@ -37,6 +39,8 @@ List of free resources for learning data science
 - [TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 
 - [TensorFlow.js - Deep Learning with JavaScript](https://www.youtube.com/watch?v=HEQDRWMK6yY&list=PLZbbT5o_s2xr83l8w44N_g3pygvajLrJ-)
+
+- [Deep Reinforcement Learning Series](https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530)
 
 - [Spinning Up in Deep RL](http://spinningup.openai.com/en/latest/)
 
