@@ -68,6 +68,8 @@ List of free resources for learning JavaScript technologies
 
 [Real Time Apps with TypeScript: Integrating Web Sockets, Node & Angular](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1)
 
+[Use TypeScript to Build a Node API with Express](https://developer.okta.com/blog/2018/11/15/node-express-typescript?fbclid=IwAR3Ei_UeM5kyajSy1vWpzikdqDhI-kLBBSdrMdDof6S8CFFJvwX43PVGpuU)
+
 ## Node.js
 
 ### Basic
