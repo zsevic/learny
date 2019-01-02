@@ -114,10 +114,6 @@ List of free resources for learning JavaScript technologies
 
 [Express.js handbook](https://flaviocopes.com/express-handbook/)
 
-## REST APIs
-
-[The practical guide for Building REST API in Nodejs and MongoDB include Passport and JWT](https://hackernoon.com/the-practical-guide-for-building-rest-api-in-nodejs-and-mongodb-include-passport-and-jwt-476720b70da0)
-
 ## React
 
 [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
@@ -156,7 +152,13 @@ List of free resources for learning JavaScript technologies
 
 [Introduction to Mongoose for MongoDB](https://dev.to/theoutlander/introduction-to-mongoose-for-mongodb--3c30)
 
-## GraphQL
+## API
+
+### REST
+
+[The practical guide for Building REST API in Nodejs and MongoDB include Passport and JWT](https://hackernoon.com/the-practical-guide-for-building-rest-api-in-nodejs-and-mongodb-include-passport-and-jwt-476720b70da0)
+
+### GraphQL
 
 [How to set up a GraphQL Server using Node.js, Express & MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474)
 
@@ -171,6 +173,10 @@ List of free resources for learning JavaScript technologies
 [How to finish setting up your powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger (Part II)](https://medium.freecodecamp.org/how-to-set-up-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-part-ii-80266790a3ac)
 
 [GraphQL security in Node.js project](https://medium.com/graphql-mastery/graphql-security-in-node-js-project-4a4d39a1df20)
+
+### gRPC
+
+[Building a gRPC service with Node.js](https://codelabs.developers.google.com/codelabs/cloud-grpc/#0)
 
 ## Electron
 
