@@ -252,6 +252,8 @@ List of free resources for learning JavaScript technologies
 
 [Publish your first npm package](https://medium.com/@maksimovic.danijel989/publish-your-first-npm-package-d6de54f983a)
 
+[Create a project using the `npm init initializer` command](https://elijahmanor.com/npm-init-initializer/)
+
 [Yarn](https://github.com/yarnpkg/yarn)
 
 ## Testing
