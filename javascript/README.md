@@ -40,6 +40,10 @@ List of free resources for learning JavaScript technologies
 
 [Here are examples of everything new in ECMAScript 2016, 2017, and 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
 
+[Here are the new built-in methods and functions in JavaScript](https://medium.freecodecamp.org/here-are-the-new-built-in-methods-and-functions-in-javascript-8f4d2fd794fa)
+
+[Includes() vs indexOf() in JavaScript](https://dev.to/adroitcoder/includes-vs-indexof-in-javascript)
+
 ## Books
 
 [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
