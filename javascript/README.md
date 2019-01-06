@@ -278,6 +278,10 @@ List of free resources for learning JavaScript technologies
 
 [Unit-testing: best practices](https://dev.to/ice_lenor/unit-testing-best-practices-27ec)
 
+## Code coverage
+
+[Measure your code coverage using Istanbul (with a demo)](https://medium.com/walkme-engineering/measure-your-nodejs-code-coverage-using-istanbul-82b129c81ae9)
+
 ## Transpilers
 
 [Babel](https://github.com/babel/babel)
