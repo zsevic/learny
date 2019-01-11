@@ -122,17 +122,11 @@ List of free resources for learning JavaScript technologies
 
 ## React
 
-[Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
-
-[Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
-
-[An introduction to React Hooks](https://medium.freecodecamp.org/an-introduction-to-react-hooks-12843fcd2fd9)
+[The React Handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
 
 [How to Learn React — A roadmap from beginner to advanced](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
 
 [Create React apps with no build configuration](https://github.com/facebook/create-react-app)
-
-[What is React Server Side Rendering and should I use it?](https://dev.to/mladenstojanovic/what-is-react-server-side-rendering-and-should-i-use-it-5b7i)
 
 ## Angular
 
@@ -278,7 +272,7 @@ List of free resources for learning JavaScript technologies
 
 [Unit-testing: best practices](https://dev.to/ice_lenor/unit-testing-best-practices-27ec)
 
-## Code coverage
+### Code coverage
 
 [Measure your code coverage using Istanbul (with a demo)](https://medium.com/walkme-engineering/measure-your-nodejs-code-coverage-using-istanbul-82b129c81ae9)
 
@@ -311,6 +305,8 @@ List of free resources for learning JavaScript technologies
 [Setup Continuous Integration with Travis CI in Your Nodejs App](https://dev.to/lauragift21/setup-continuous-integration-with-travis-ci-in-your-nodejs-app-26i2)
 
 ## Documentation
+
+[Adding Swagger To Existing Node.js Project](https://blog.cloudboost.io/adding-swagger-to-existing-node-js-project-92a6624b855b)
 
 [JSDoc](https://github.com/jsdoc3/jsdoc)
 
