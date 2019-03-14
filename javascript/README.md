@@ -44,6 +44,8 @@ List of free resources for learning JavaScript technologies
 
 [Includes() vs indexOf() in JavaScript](https://dev.to/adroitcoder/includes-vs-indexof-in-javascript)
 
+[The Complete Guide to ES10 Features](https://medium.freecodecamp.org/the-complete-guide-to-es10-features-5fd0feb9513a)
+
 ## Books
 
 [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -91,6 +93,8 @@ List of free resources for learning JavaScript technologies
 [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
 
 [23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
+
+[Debug Your Node.js App in 60 Seconds](https://dev.to/john_papa/debug-your-nodejs-app-in-60-seconds-5cni)
 
 ### Advanced
 
@@ -179,6 +183,8 @@ List of free resources for learning JavaScript technologies
 ### gRPC
 
 [Building a gRPC service with Node.js](https://codelabs.developers.google.com/codelabs/cloud-grpc/#0)
+
+[Node, gRPC, and Postgres](https://mherman.org/blog/node-grpc-postgres/)
 
 ## Electron
 
@@ -321,6 +327,8 @@ List of free resources for learning JavaScript technologies
 ## Containers
 
 [How to Dockerize a Node.js application](https://buddy.works/guides/how-dockerize-node-application)
+
+[How to create a full stack React/Express/MongoDB app using Docker](https://medium.freecodecamp.org/create-a-fullstack-react-express-mongodb-app-using-docker-c3e3e21c4074)
 
 ## Miscellaneous
 
