@@ -16,6 +16,8 @@ List of free resources for learning JavaScript technologies
 
 [What do the three dots (...) mean in JavaScript?](https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript/)
 
+[What you should know about JavaScript arrays](https://thomlom.dev/what-you-should-know-about-js-arrays/)
+
 ### Advanced
 
 [How to automate your open source JavaScript project’s most repetitive tasks](https://medium.freecodecamp.org/how-to-setup-productivity-tools-for-an-open-source-javascript-project-c52d403c5087)
