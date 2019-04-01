@@ -20,6 +20,8 @@ List of free resources for learning JavaScript technologies
 
 [The magic of the “this” keyword in JavaScript](https://medium.freecodecamp.org/the-magic-of-the-this-keyword-in-javascript-ce3ce571013e)
 
+[The difference between call / apply / bind](https://medium.com/@ivansifrim/the-differences-between-call-apply-bind-276724bb825b)
+
 ### Advanced
 
 [How to automate your open source JavaScript project’s most repetitive tasks](https://medium.freecodecamp.org/how-to-setup-productivity-tools-for-an-open-source-javascript-project-c52d403c5087)
