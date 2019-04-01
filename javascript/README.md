@@ -18,6 +18,8 @@ List of free resources for learning JavaScript technologies
 
 [What you should know about JavaScript arrays](https://thomlom.dev/what-you-should-know-about-js-arrays/)
 
+[The magic of the “this” keyword in JavaScript](https://medium.freecodecamp.org/the-magic-of-the-this-keyword-in-javascript-ce3ce571013e)
+
 ### Advanced
 
 [How to automate your open source JavaScript project’s most repetitive tasks](https://medium.freecodecamp.org/how-to-setup-productivity-tools-for-an-open-source-javascript-project-c52d403c5087)
