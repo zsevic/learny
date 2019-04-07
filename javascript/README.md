@@ -194,6 +194,22 @@ List of free resources for learning JavaScript technologies
 
 [Node, gRPC, and Postgres](https://mherman.org/blog/node-grpc-postgres/)
 
+## Microservices
+
+[Microservices / event-driven architecture using Node.js](https://thatcoder.space/microservices-event-driven-architecture/)
+
+### Messaging
+
+#### Kafka
+
+[Getting started with Kafka and Node.js - Setup with example](https://thatcoder.space/getting-started-with-kafka-and-node-js-with-example/)
+
+#### RabbitMQ
+
+[An introduction to RabbitMQ, a broker that deals in messages](https://medium.freecodecamp.org/rabbitmq-9e8f78194993)
+
+[Messaging with RabbitMQ in Node.js](https://www.devbridge.com/articles/messaging-with-rabbitmq-in-node-js/)
+
 ## Electron
 
 [How to Build Your First Desktop App with JavaScript Using Electron](https://medium.freecodecamp.org/how-to-build-your-first-app-with-electron-41ebdb796930)
