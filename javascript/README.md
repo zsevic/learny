@@ -156,13 +156,17 @@ List of free resources for learning JavaScript technologies
 
 [How you can test your Vue.js apps in less than seven minutes](https://medium.freecodecamp.org/testing-vue-js-applications-vue-test-utils-39ec26ddaa4e)
 
-## MongoDB
+## Databases
+
+### MongoDB
 
 [The MongoDB basics tutorial](https://flaviocopes.com/mongodb/)
 
 [How to use MongoDB with Node.js](https://flaviocopes.com/node-mongodb/)
 
 [Introduction to Mongoose for MongoDB](https://dev.to/theoutlander/introduction-to-mongoose-for-mongodb--3c30)
+
+[Aggregation in Mongodb](https://medium.com/@paulrohan/aggregation-in-mongodb-8195c8624337)
 
 ## API
 
@@ -209,6 +213,8 @@ List of free resources for learning JavaScript technologies
 [An introduction to RabbitMQ, a broker that deals in messages](https://medium.freecodecamp.org/rabbitmq-9e8f78194993)
 
 [Messaging with RabbitMQ in Node.js](https://www.devbridge.com/articles/messaging-with-rabbitmq-in-node-js/)
+
+[Getting started with RabbitMQ and Node.js with example](https://thatcoder.space/getting-started-with-rabbitmq-and-node-js/)
 
 ## Electron
 
