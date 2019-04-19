@@ -356,7 +356,13 @@ List of free resources for learning JavaScript technologies
 
 ## Containers
 
+### Docker
+
 [How to Dockerize a Node.js application](https://buddy.works/guides/how-dockerize-node-application)
+
+### Docker compose
+
+[Getting started with Docker for local Node.js development](https://medium.com/@francoisromain/getting-started-with-docker-for-local-node-js-development-192ceca18781)
 
 [How to create a full stack React/Express/MongoDB app using Docker](https://medium.freecodecamp.org/create-a-fullstack-react-express-mongodb-app-using-docker-c3e3e21c4074)
 
