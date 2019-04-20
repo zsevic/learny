@@ -112,8 +112,6 @@ List of free resources for learning JavaScript technologies
 
 [Node js Elastic Search Tutorial Example](https://appdividend.com/2018/06/29/node-js-elastic-search-tutorial-example/)
 
-[How to make beautiful, simple CLI apps with Node](https://dev.to/hugo__df/how-to-make-beautiful-simple-cli-apps-with-node-c1b)
-
 [Clustering & Inter Process Communication (IPC) in Node.js](https://medium.com/js-imaginea/clustering-inter-process-communication-ipc-in-node-js-748f981214e9)
 
 [Securing your Node js api with JSON Web Token](https://dev.to/medaymentn/securing-your-node-js-api-with-json-web-token-5o5)
@@ -125,6 +123,12 @@ List of free resources for learning JavaScript technologies
 [Using import/export in node.js with esm](https://medium.com/@jamischarles/using-import-export-in-node-js-with-esm-7ce9153ff63)
 
 [Bundle your Node app to a single executable for Windows, Linux and OsX](https://dev.to/jochemstoel/bundle-your-node-app-to-a-single-executable-for-windows-linux-and-osx-2c89)
+
+### CLI
+
+[How to make beautiful, simple CLI apps with Node](https://dev.to/hugo__df/how-to-make-beautiful-simple-cli-apps-with-node-c1b)
+
+[How to build a CLI tool in NodeJS](https://medium.freecodecamp.org/how-to-build-a-cli-tool-in-nodejs-bc4f67d898ec)
 
 ## Express.js
 
