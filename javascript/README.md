@@ -62,8 +62,6 @@ List of free resources for learning JavaScript technologies
 
 ## Books
 
-[Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-
 [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 
 ## Guides
@@ -79,6 +77,12 @@ List of free resources for learning JavaScript technologies
 [Grab Front End Guide](https://github.com/grab/front-end-guide)
 
 [Web Developer Roadmap - 2018](https://github.com/kamranahmedse/developer-roadmap)
+
+## Design patterns
+
+[Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+[The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
 
 ## TypeScript
 
