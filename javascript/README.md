@@ -4,7 +4,7 @@ List of free resources for learning JavaScript technologies
 
 ## JavaScript
 
-### Basic
+### Core
 
 [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
@@ -24,7 +24,13 @@ List of free resources for learning JavaScript technologies
 
 [Javascript Scope Chain and Execution Context simplified](https://medium.com/koderlabs/javascript-scope-chain-and-execution-context-simplified-ffb54fc6ad02)
 
-### Advanced
+[When to use a function declaration vs. a function expression](https://medium.freecodecamp.org/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0)
+
+[3 Ways to Set Default Value in JavaScript](https://dev.to/samanthaming/3-ways-to-set-default-value-in-javascript-2253)
+
+[A basic introduction to JavaScript variable definitions and hoisting](https://medium.freecodecamp.org/a-basic-introduction-to-javascript-variable-definitions-and-hoisting-93aa38e742eb)
+
+### Miscellaneous
 
 [How to automate your open source JavaScript project’s most repetitive tasks](https://medium.freecodecamp.org/how-to-setup-productivity-tools-for-an-open-source-javascript-project-c52d403c5087)
 
@@ -88,7 +94,7 @@ List of free resources for learning JavaScript technologies
 
 ## Node.js
 
-### Basic
+### Core
 
 [The definitive Node.js handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 
@@ -104,7 +110,7 @@ List of free resources for learning JavaScript technologies
 
 [Debug Your Node.js App in 60 Seconds](https://dev.to/john_papa/debug-your-nodejs-app-in-60-seconds-5cni)
 
-### Advanced
+### Miscellaneous
 
 [Scaling Node.js Applications](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
 
@@ -124,6 +130,8 @@ List of free resources for learning JavaScript technologies
 
 [Bundle your Node app to a single executable for Windows, Linux and OsX](https://dev.to/jochemstoel/bundle-your-node-app-to-a-single-executable-for-windows-linux-and-osx-2c89)
 
+[How to create a Task Scheduler in NodeJS](https://dev.to/andre347/how-to-create-a-task-scheduler-in-nodejs-4lo2)
+
 ### CLI
 
 [How to make beautiful, simple CLI apps with Node](https://dev.to/hugo__df/how-to-make-beautiful-simple-cli-apps-with-node-c1b)
@@ -136,7 +144,9 @@ List of free resources for learning JavaScript technologies
 
 [Express.js handbook](https://flaviocopes.com/express-handbook/)
 
-## React
+## Frontend libraries/frameworks
+
+### React
 
 [The React Handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
 
@@ -144,7 +154,9 @@ List of free resources for learning JavaScript technologies
 
 [Create React apps with no build configuration](https://github.com/facebook/create-react-app)
 
-## Angular
+[How to Setup a Fresh React App](https://dev.to/oliverandrich/how-to-setup-a-fresh-react-app-5p0)
+
+### Angular
 
 [An Angular 5 Tutorial: Step by Step Guide to Your First Angular 5 App](https://www.toptal.com/angular/angular-5-tutorial)
 
@@ -152,7 +164,7 @@ List of free resources for learning JavaScript technologies
 
 [CLI tool for Angular](https://github.com/angular/angular-cli)
 
-## Vue
+### Vue
 
 [Learn Vue.js for free](https://scrimba.com/g/glearnvue)
 
@@ -220,11 +232,15 @@ List of free resources for learning JavaScript technologies
 
 [Getting started with RabbitMQ and Node.js with example](https://thatcoder.space/getting-started-with-rabbitmq-and-node-js/)
 
-## Electron
+## Desktop apps
+
+### Electron
 
 [How to Build Your First Desktop App with JavaScript Using Electron](https://medium.freecodecamp.org/how-to-build-your-first-app-with-electron-41ebdb796930)
 
-## React Native
+## Mobile apps
+
+### React Native
 
 [Learn to use the create-react-native-app for a simple and elegant solution for starting React Native Applications](https://www.facebook.com/eggheadio/videos/1408536319216985/)
 
@@ -234,7 +250,13 @@ List of free resources for learning JavaScript technologies
 
 [You don't need express to get started with socket.io](https://dev.to/sadick/you-dont-need-express-to-get-started-with-socketio-4ieg)
 
-## Reactive programming
+## Paradigms
+
+### Functional programming
+
+[How and why to use Functional Programming in modern JavaScript](https://medium.freecodecamp.org/how-and-why-to-use-functional-programming-in-modern-javascript-fda2df86ad1b)
+
+### Reactive programming
 
 [The Best Explanation of JavaScript Reactivity](https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d)
 
@@ -262,7 +284,7 @@ List of free resources for learning JavaScript technologies
 
 [Creating a simple Twitter Bot in NodeJs in 20 lines of code](https://chatbotslife.com/creating-a-twitter-bot-in-nodejs-in-20-lines-of-code-da9d724ecd98)
 
-## Chat bots
+### Chat bots
 
 [Build a simple chat app with node.js and socket.io](https://medium.com/@noufel.gouirhate/build-a-simple-chat-app-with-node-js-and-socket-io-ea716c093088)
 
@@ -288,13 +310,23 @@ List of free resources for learning JavaScript technologies
 
 ## Package management
 
-[Npm](https://github.com/npm/npm)
+[What's what? - Package.json cheatsheet](https://dev.to/areknawo/what-s-what-package-json-cheatsheet-1g28)
 
 [Introduction to NPM Scripts](https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633)
+
+[How to ignore files from your npm package](https://dev.to/zellwk/how-to-ignore-files-from-your-npm-package-2fbm)
+
+### Npm
+
+[Npm](https://github.com/npm/npm)
 
 [Publish your first npm package](https://medium.com/@maksimovic.danijel989/publish-your-first-npm-package-d6de54f983a)
 
 [Create a project using the `npm init initializer` command](https://elijahmanor.com/npm-init-initializer/)
+
+[How to publish packages to npm (the way the industry does things)](https://medium.freecodecamp.org/how-to-publish-packages-to-npm-the-way-the-industry-does-things-2077ec34d7e8)
+
+### Yarn
 
 [Yarn](https://github.com/yarnpkg/yarn)
 
@@ -302,7 +334,15 @@ List of free resources for learning JavaScript technologies
 
 [A guide to unit testing in JavaScript](https://github.com/mawrkus/js-unit-testing-guide)
 
+[Unit-testing: best practices](https://dev.to/ice_lenor/unit-testing-best-practices-27ec)
+
+### Test frameworks
+
+#### Mocha
+
 [Mocha](https://github.com/mochajs/mocha)
+
+#### Jest
 
 [Jest](https://github.com/facebook/jest)
 
@@ -310,9 +350,9 @@ List of free resources for learning JavaScript technologies
 
 [A quick introduction to test driven development with Jest](https://medium.freecodecamp.org/a-quick-introduction-to-test-driven-development-with-jest-cac71cb94e50)
 
-[Chai](https://github.com/chaijs/chai)
+### Assertion libraries
 
-[Unit-testing: best practices](https://dev.to/ice_lenor/unit-testing-best-practices-27ec)
+[Chai](https://github.com/chaijs/chai)
 
 ### Code coverage
 
@@ -367,6 +407,8 @@ List of free resources for learning JavaScript technologies
 ### Docker compose
 
 [Getting started with Docker for local Node.js development](https://medium.com/@francoisromain/getting-started-with-docker-for-local-node-js-development-192ceca18781)
+
+[A beginner’s guide to Docker — how to create a client/server side with Docker-Compose](https://medium.freecodecamp.org/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose-12c8cf0ae0aa)
 
 [How to create a full stack React/Express/MongoDB app using Docker](https://medium.freecodecamp.org/create-a-fullstack-react-express-mongodb-app-using-docker-c3e3e21c4074)
 
