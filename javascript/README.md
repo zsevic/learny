@@ -30,6 +30,8 @@ List of free resources for learning JavaScript technologies
 
 [A basic introduction to JavaScript variable definitions and hoisting](https://medium.freecodecamp.org/a-basic-introduction-to-javascript-variable-definitions-and-hoisting-93aa38e742eb)
 
+[5 Tips to Write Better Conditionals in JavaScript](https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript)
+
 ### Miscellaneous
 
 [How to automate your open source JavaScript project’s most repetitive tasks](https://medium.freecodecamp.org/how-to-setup-productivity-tools-for-an-open-source-javascript-project-c52d403c5087)
