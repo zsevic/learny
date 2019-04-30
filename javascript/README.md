@@ -190,6 +190,8 @@ List of free resources for learning JavaScript technologies
 
 [Aggregation in Mongodb](https://medium.com/@paulrohan/aggregation-in-mongodb-8195c8624337)
 
+[How to automate database migrations in MongoDB](https://medium.freecodecamp.org/how-to-automate-database-migrations-in-mongodb-d6b68efe084e)
+
 ## API
 
 ### REST
