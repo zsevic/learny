@@ -86,6 +86,10 @@ List of free resources for learning JavaScript technologies
 
 [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
 
+[NodeJS and Good Practices](https://blog.codeminer42.com/nodejs-and-good-practices-354e7d763626)
+
+[Node.js and dependency injection – friends or foes?](https://tsh.io/blog/dependency-injection-in-node-js/)
+
 ## TypeScript
 
 [The Definitive TypeScript Handbook](https://www.freecodecamp.org/news/the-definitive-typescript-handbook/)
