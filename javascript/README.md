@@ -88,6 +88,8 @@ List of free resources for learning JavaScript technologies
 
 ## TypeScript
 
+[The Definitive TypeScript Handbook](https://www.freecodecamp.org/news/the-definitive-typescript-handbook/)
+
 [Learn TypeScript in 5 minutes](https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb)
 
 [TypeScript Essentials](https://medium.com/@wittydeveloper/typescript-essentials-b7ae85b0f561)
