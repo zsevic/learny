@@ -360,11 +360,7 @@ List of free resources for learning JavaScript technologies
 
 #### Jest
 
-[Jest](https://github.com/facebook/jest)
-
-[Facebook Jest, the JS testing tool for people who hate writing tests](https://blog.cloudboost.io/first-run-facebook-jest-the-js-testing-tool-for-people-who-hate-writing-tests-30b5bc4b9dd2)
-
-[A quick introduction to test driven development with Jest](https://medium.freecodecamp.org/a-quick-introduction-to-test-driven-development-with-jest-cac71cb94e50)
+[How to test JavaScript with Jest](https://dev.to/thomlom/how-to-test-javascript-with-jest-3bkg)
 
 ### Assertion libraries
 
