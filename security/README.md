@@ -23,3 +23,7 @@ Web security and pentesting
 - [Advanced Penetration Testing](https://www.cybrary.it/course/advanced-penetration-testing/)
 
 - [Web for Pentester](https://pentesterlab.com/exercises/web_for_pentester)
+
+- [Web App Penetration Testing](https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC)
+
+- [OWASP Node Goat](https://nodegoat.herokuapp.com/tutorial)
