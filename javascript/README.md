@@ -332,6 +332,8 @@ List of free resources for learning JavaScript technologies
 
 [How to ignore files from your npm package](https://dev.to/zellwk/how-to-ignore-files-from-your-npm-package-2fbm)
 
+[Create Your First Github Package](https://dev.to/dalenguyen/create-your-first-github-package-564f)
+
 ### Npm
 
 [Npm](https://github.com/npm/npm)
