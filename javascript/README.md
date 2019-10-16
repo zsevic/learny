@@ -34,6 +34,8 @@ List of free resources for learning JavaScript technologies
 
 ### Miscellaneous
 
+[Practical Ways to Write Better JavaScript](https://stackoverflow.blog/2019/09/12/practical-ways-to-write-better-javascript/)
+
 [How to automate your open source JavaScript project’s most repetitive tasks](https://medium.freecodecamp.org/how-to-setup-productivity-tools-for-an-open-source-javascript-project-c52d403c5087)
 
 [JavaScripts Regular Expressions Get More Power](https://dev.to/kayis/javascripts-regular-expressions-get-more-power-4m4j)
