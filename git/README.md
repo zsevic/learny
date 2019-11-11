@@ -10,6 +10,8 @@ List of free resources for learning git
 
 [When to make a Git Commit](https://dev.to/gonedark/when-to-make-a-git-commit)
 
+[Useful tricks you might not know about Git stash](https://www.freecodecamp.org/news/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a/)
+
 [Git hacks you should know about](https://dev.to/teamxenox/git-hacks-you-should-know-about-16pk)
 
 [Git standup, how did I ever live without you?](https://dev.to/ben/git-standup-how-did-i-ever-live-without-you)

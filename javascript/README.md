@@ -54,6 +54,8 @@ List of free resources for learning JavaScript technologies
 
 ## ES6+
 
+[When Not to use Arrow Functions](https://dev.to/bunlong/when-not-to-use-arrow-functions-4knc)
+
 [ES6 for beginners with example](https://dev.to/srebalaji/es6-for-beginners-with-example-c7)
 
 [Here are examples of everything new in ECMAScript 2016, 2017, and 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
@@ -102,6 +104,8 @@ List of free resources for learning JavaScript technologies
 
 [TypeScript Essentials](https://medium.com/@wittydeveloper/typescript-essentials-b7ae85b0f561)
 
+[How TypeScript 3.7 Helps Quality](https://dev.to/integerman/how-typescript-3-7-helps-quality-33jn)
+
 [Using Typescript with Express](https://dev.to/briandgls/using-typescript-with-express--e0k)
 
 [Real Time Apps with TypeScript: Integrating Web Sockets, Node & Angular](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1)
@@ -127,6 +131,8 @@ List of free resources for learning JavaScript technologies
 [Debug Your Node.js App in 60 Seconds](https://dev.to/john_papa/debug-your-nodejs-app-in-60-seconds-5cni)
 
 ### Miscellaneous
+
+[Refactoring node.js (Part 1)](https://dev.to/paulasantamaria/refactoring-node-js-part-1-42fe)
 
 [Scaling Node.js Applications](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
 
@@ -334,6 +340,8 @@ List of free resources for learning JavaScript technologies
 
 [How to ignore files from your npm package](https://dev.to/zellwk/how-to-ignore-files-from-your-npm-package-2fbm)
 
+[5 package.json magic scripts that you don't use!](https://dev.to/kumar_abhirup/5-package-json-magic-scripts-that-you-don-t-use-4n3p)
+
 [Create Your First Github Package](https://dev.to/dalenguyen/create-your-first-github-package-564f)
 
 ### Npm
@@ -365,6 +373,10 @@ List of free resources for learning JavaScript technologies
 #### Jest
 
 [How to test JavaScript with Jest](https://dev.to/thomlom/how-to-test-javascript-with-jest-3bkg)
+
+[Testing with Jest & async/await](https://paulasantamaria.com/posts/testing-with-jest-async-await-314e/)
+
+[Testing Node.js + Mongoose with an in-memory database](https://paulasantamaria.com/posts/testing-node-js-mongoose-with-an-in-memory-database-32np/)
 
 ### Assertion libraries
 
