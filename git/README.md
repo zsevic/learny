@@ -29,3 +29,5 @@ List of free resources for learning git
 [Follow these simple rules and you’ll become a Git and GitHub master](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
 
 [How to use GitHub badges to stop feeling like a noob](https://medium.freecodecamp.org/how-to-use-badges-to-stop-feeling-like-a-noob-d4e6600d37d2)
+
+[Working with GitHub Actions](https://jeffrafter.com/working-with-github-actions/)
