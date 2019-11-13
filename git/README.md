@@ -6,6 +6,8 @@ List of free resources for learning git
 
 [Learn Git](https://www.codecademy.com/learn/learn-git)
 
+[Working with Git](https://dev.to/wizardhealth/working-with-git-2cl8)
+
 [Essential git commands every developer should know](https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl)
 
 [When to make a Git Commit](https://dev.to/gonedark/when-to-make-a-git-commit)
