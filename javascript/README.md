@@ -244,6 +244,8 @@ List of free resources for learning JavaScript technologies
 
 ### Messaging
 
+[NSQ Tutorial: Build a simple message queue using NSQ](https://dev.to/vguleaev/nsq-tutorial-build-a-simple-message-queue-using-nsq-43eh)
+
 #### Kafka
 
 [Getting started with Kafka and Node.js - Setup with example](https://thatcoder.space/getting-started-with-kafka-and-node-js-with-example/)
