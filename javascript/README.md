@@ -154,6 +154,8 @@ List of free resources for learning JavaScript technologies
 
 [How to create a Task Scheduler in NodeJS](https://dev.to/andre347/how-to-create-a-task-scheduler-in-nodejs-4lo2)
 
+[Patching your node_modules](https://opensource.christmas/2019/4)
+
 ### CLI
 
 [How to make beautiful, simple CLI apps with Node](https://dev.to/hugo__df/how-to-make-beautiful-simple-cli-apps-with-node-c1b)
