@@ -168,6 +168,10 @@ List of free resources for learning JavaScript technologies
 
 [Express.js handbook](https://flaviocopes.com/express-handbook/)
 
+## NestJS
+
+[A Crash Course in NestJS](https://medium.com/javascript-in-plain-english/a-crash-course-in-nestjs-cccfc0090a16)
+
 ## Frontend libraries/frameworks
 
 ### React
