@@ -128,6 +128,8 @@ List of free resources for learning JavaScript technologies
 
 [23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
 
+[An Overview of What Was New in Node 12](https://tsh.io/blog/new-node-js-features/)
+
 [Debug Your Node.js App in 60 Seconds](https://dev.to/john_papa/debug-your-nodejs-app-in-60-seconds-5cni)
 
 ### Miscellaneous
