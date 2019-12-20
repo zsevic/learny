@@ -64,6 +64,8 @@ List of free resources for learning JavaScript technologies
 
 [Includes() vs indexOf() in JavaScript](https://dev.to/adroitcoder/includes-vs-indexof-in-javascript)
 
+[Async Generator Functions in JavaScript](http://thecodebarbarian.com/async-generator-functions-in-javascript.html)
+
 [The Complete Guide to ES10 Features](https://medium.freecodecamp.org/the-complete-guide-to-es10-features-5fd0feb9513a)
 
 ## Books
