@@ -158,6 +158,8 @@ List of free resources for learning JavaScript technologies
 
 [Patching your node_modules](https://opensource.christmas/2019/4)
 
+[Building Distributed Systems with Node.js](https://www.youtube.com/watch?v=GUtd-zEDgjQ)
+
 ### CLI
 
 [How to make beautiful, simple CLI apps with Node](https://dev.to/hugo__df/how-to-make-beautiful-simple-cli-apps-with-node-c1b)
