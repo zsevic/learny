@@ -162,6 +162,8 @@ List of free resources for learning JavaScript technologies
 
 [Building Distributed Systems with Node.js](https://www.youtube.com/watch?v=GUtd-zEDgjQ)
 
+[How to build a web crawler with Node](https://dev.to/bnevilleoneill/how-to-build-a-web-crawler-with-node-3hn2)
+
 ### CLI
 
 [How to make beautiful, simple CLI apps with Node](https://dev.to/hugo__df/how-to-make-beautiful-simple-cli-apps-with-node-c1b)
@@ -189,6 +191,8 @@ List of free resources for learning JavaScript technologies
 [Create React apps with no build configuration](https://github.com/facebook/create-react-app)
 
 [How to Setup a Fresh React App](https://dev.to/oliverandrich/how-to-setup-a-fresh-react-app-5p0)
+
+[7 steps to understand React Redux](https://dev.to/ibrahima92/7-steps-to-understand-react-redux-121j)
 
 ### Angular
 
