@@ -54,8 +54,6 @@ List of free resources for learning JavaScript technologies
 
 ## ES6+
 
-[When Not to use Arrow Functions](https://dev.to/bunlong/when-not-to-use-arrow-functions-4knc)
-
 [ES6 for beginners with example](https://dev.to/srebalaji/es6-for-beginners-with-example-c7)
 
 [Here are examples of everything new in ECMAScript 2016, 2017, and 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
@@ -107,8 +105,6 @@ List of free resources for learning JavaScript technologies
 [TypeScript Essentials](https://medium.com/@wittydeveloper/typescript-essentials-b7ae85b0f561)
 
 [How TypeScript 3.7 Helps Quality](https://dev.to/integerman/how-typescript-3-7-helps-quality-33jn)
-
-[Using Typescript with Express](https://dev.to/briandgls/using-typescript-with-express--e0k)
 
 [Real Time Apps with TypeScript: Integrating Web Sockets, Node & Angular](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1)
 
@@ -174,8 +170,6 @@ List of free resources for learning JavaScript technologies
 
 [Learn Express](https://www.codecademy.com/learn/learn-express)
 
-[Express.js handbook](https://flaviocopes.com/express-handbook/)
-
 ## NestJS
 
 [A Crash Course in NestJS](https://medium.com/javascript-in-plain-english/a-crash-course-in-nestjs-cccfc0090a16)
@@ -191,6 +185,10 @@ List of free resources for learning JavaScript technologies
 [Create React apps with no build configuration](https://github.com/facebook/create-react-app)
 
 [How to Setup a Fresh React App](https://dev.to/oliverandrich/how-to-setup-a-fresh-react-app-5p0)
+
+#### Redux
+
+[Learn Redux In One Video - Redux / React Tutorial](https://www.youtube.com/watch?v=9fHQI-dt7QU)
 
 [7 steps to understand React Redux](https://dev.to/ibrahima92/7-steps-to-understand-react-redux-121j)
 
@@ -226,10 +224,6 @@ List of free resources for learning JavaScript technologies
 
 ## API
 
-### REST
-
-[The practical guide for Building REST API in Nodejs and MongoDB include Passport and JWT](https://hackernoon.com/the-practical-guide-for-building-rest-api-in-nodejs-and-mongodb-include-passport-and-jwt-476720b70da0)
-
 ### GraphQL
 
 [How to set up a GraphQL Server using Node.js, Express & MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474)
@@ -240,9 +234,7 @@ List of free resources for learning JavaScript technologies
 
 [Getting started - Apollo Server](https://www.apollographql.com/docs/apollo-server/v2/getting-started.html)
 
-[How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger](https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
-
-[How to finish setting up your powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger (Part II)](https://medium.freecodecamp.org/how-to-set-up-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-part-ii-80266790a3ac)
+[How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://www.freecodecamp.org/news/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9/)
 
 [GraphQL security in Node.js project](https://medium.com/graphql-mastery/graphql-security-in-node-js-project-4a4d39a1df20)
 
@@ -305,10 +297,6 @@ List of free resources for learning JavaScript technologies
 [RxJS by Example](https://codeburst.io/rxjs-by-example-part-1-ff7f1530071c)
 
 [Reactive programming and Observable sequences with RxJS in Node.js](https://medium.freecodecamp.org/rxjs-and-node-8f4e0acebc7c)
-
-## Redux
-
-[Learn Redux In One Video - Redux / React Tutorial](https://www.youtube.com/watch?v=9fHQI-dt7QU)
 
 ## Deployment
 
@@ -480,7 +468,9 @@ List of free resources for learning JavaScript technologies
 
 ## Websites with useful articles
 
-[medium.freecodecamp](https://medium.freecodecamp.org/)
+[blog.js](https://blog.vsimonovski.me/)
+
+[freecodecamp/news](https://www.freecodecamp.org/news/)
 
 [The DEV Community](https://dev.to/)
 
