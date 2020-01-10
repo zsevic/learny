@@ -174,6 +174,8 @@ List of free resources for learning JavaScript technologies
 
 [A Crash Course in NestJS](https://medium.com/javascript-in-plain-english/a-crash-course-in-nestjs-cccfc0090a16)
 
+[Add Getting Started With NestJS](https://dev.to/santoshyadav198613/getting-started-with-nestjs-504h)
+
 ## Frontend libraries/frameworks
 
 ### React
