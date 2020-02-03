@@ -386,6 +386,8 @@ List of free resources for learning JavaScript technologies
 
 [Testing Node.js + Mongoose with an in-memory database](https://paulasantamaria.com/posts/testing-node-js-mongoose-with-an-in-memory-database-32np/)
 
+[The only 3 steps you need to mock an API call in Jest](https://dev.to/zaklaughton/the-only-3-steps-you-need-to-mock-an-api-call-in-jest-39mb)
+
 ### Assertion libraries
 
 [Chai](https://github.com/chaijs/chai)
