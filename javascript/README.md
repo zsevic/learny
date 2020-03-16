@@ -194,6 +194,10 @@ List of free resources for learning JavaScript technologies
 
 [8 simple steps to start testing React Apps using React Testing Library and Jest](https://dev.to/ibrahima92/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest-3922)
 
+[How to replace Component lifecycle with useEffect hook in React?](https://www.ibrahima-ndaw.com/blog/replace-component-lifecycle-with-useEffect/)
+
+[How to lift your React App performance using Lazy Loading?](https://www.ibrahima-ndaw.com/blog/lazy-loading-using-react/)
+
 #### Redux
 
 [Learn Redux In One Video - Redux / React Tutorial](https://www.youtube.com/watch?v=9fHQI-dt7QU)
