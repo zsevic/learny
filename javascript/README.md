@@ -190,11 +190,17 @@ List of free resources for learning JavaScript technologies
 
 [How to Setup a Fresh React App](https://dev.to/oliverandrich/how-to-setup-a-fresh-react-app-5p0)
 
+[A Complete Beginner's Guide to React Router (including Router Hooks)](https://www.ibrahima-ndaw.com/blog/the-complete-guide-to-react-router/)
+
+[8 simple steps to start testing React Apps using React Testing Library and Jest](https://dev.to/ibrahima92/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest-3922)
+
 #### Redux
 
 [Learn Redux In One Video - Redux / React Tutorial](https://www.youtube.com/watch?v=9fHQI-dt7QU)
 
 [7 steps to understand React Redux](https://dev.to/ibrahima92/7-steps-to-understand-react-redux-121j)
+
+[Redux VS React Context: Which one should you choose?](https://www.ibrahima-ndaw.com/blog/redux-vs-react-context-which-one-should-you-choose/)
 
 ### Angular
 
