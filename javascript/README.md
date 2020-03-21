@@ -198,6 +198,8 @@ List of free resources for learning JavaScript technologies
 
 [How to replace Component lifecycle with useEffect hook in React?](https://www.ibrahima-ndaw.com/blog/replace-component-lifecycle-with-useEffect/)
 
+[How to mimic componentDidUpdate() with React Hooks](https://dev.to/savagepixie/how-to-mimic-componentdidupdate-with-react-hooks-3j8c)
+
 [How to lift your React App performance using Lazy Loading?](https://www.ibrahima-ndaw.com/blog/lazy-loading-using-react/)
 
 #### Redux
