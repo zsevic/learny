@@ -300,9 +300,15 @@ List of free resources for learning JavaScript technologies
 
 [How to integrate Redux into your application with React Native and Expo](https://medium.freecodecamp.org/how-to-integrate-redux-into-your-application-with-react-native-and-expo-ec37c9ca6033)
 
-## socket.io
+## WebSockets
+
+### socket.io
 
 [You don't need express to get started with socket.io](https://dev.to/sadick/you-dont-need-express-to-get-started-with-socketio-4ieg)
+
+## Server-Sent Events
+
+[Using Server-Sent Events in Node.js to Build a Realtime App](https://alligator.io/nodejs/server-sent-events-build-realtime-app/)
 
 ## Paradigms
 
