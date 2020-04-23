@@ -505,3 +505,5 @@ List of free resources for learning JavaScript technologies
 [RisingStack](https://blog.risingstack.com/)
 
 [Flavio Copes](https://flaviocopes.com/)
+
+[Robin Wieruch](https://www.robinwieruch.de/blog)
