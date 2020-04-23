@@ -513,3 +513,5 @@ List of free resources for learning JavaScript technologies
 [Flavio Copes](https://flaviocopes.com/)
 
 [Robin Wieruch](https://www.robinwieruch.de/blog)
+
+[Alligator.io](https://alligator.io/)
