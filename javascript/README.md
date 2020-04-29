@@ -128,8 +128,6 @@ List of free resources for learning JavaScript technologies
 
 [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
 
-[23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
-
 [An Overview of What Was New in Node 12](https://tsh.io/blog/new-node-js-features/)
 
 [Debug Your Node.js App in 60 Seconds](https://dev.to/john_papa/debug-your-nodejs-app-in-60-seconds-5cni)
@@ -181,6 +179,14 @@ List of free resources for learning JavaScript technologies
 [A Crash Course in NestJS](https://medium.com/javascript-in-plain-english/a-crash-course-in-nestjs-cccfc0090a16)
 
 [Add Getting Started With NestJS](https://dev.to/santoshyadav198613/getting-started-with-nestjs-504h)
+
+## Security
+
+[23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
+
+[Going surfing – Protect your Node.js app from Cross-Site Request Forgery](https://www.twilio.com/blog/2018/01/protect-your-node-js-app-from-cross-site-request-forgery.html)
+
+[GraphQL security in Node.js project](https://medium.com/graphql-mastery/graphql-security-in-node-js-project-4a4d39a1df20)
 
 ## Frontend libraries/frameworks
 
@@ -255,8 +261,6 @@ List of free resources for learning JavaScript technologies
 [Getting started - Apollo Server](https://www.apollographql.com/docs/apollo-server/v2/getting-started.html)
 
 [How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://www.freecodecamp.org/news/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9/)
-
-[GraphQL security in Node.js project](https://medium.com/graphql-mastery/graphql-security-in-node-js-project-4a4d39a1df20)
 
 [GraphQL Server Tutorial with Apollo Server and Express](https://www.robinwieruch.de/graphql-apollo-server-tutorial/)
 
