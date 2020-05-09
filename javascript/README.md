@@ -138,6 +138,8 @@ List of free resources for learning JavaScript technologies
 
 [Refactoring node.js (Part 1)](https://dev.to/paulasantamaria/refactoring-node-js-part-1-42fe)
 
+[How Do You Start a Node.js Server in Production?](https://dev.to/maximization/how-do-you-start-a-node-js-server-in-production-1cbf)
+
 [Scaling Node.js Applications](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
 
 [How to get create-react-app to work with a Node.js back-end API](https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0)
