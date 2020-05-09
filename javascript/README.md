@@ -138,8 +138,6 @@ List of free resources for learning JavaScript technologies
 
 [Refactoring node.js (Part 1)](https://dev.to/paulasantamaria/refactoring-node-js-part-1-42fe)
 
-[How Do You Start a Node.js Server in Production?](https://dev.to/maximization/how-do-you-start-a-node-js-server-in-production-1cbf)
-
 [Scaling Node.js Applications](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
 
 [How to get create-react-app to work with a Node.js back-end API](https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0)
@@ -189,6 +187,10 @@ List of free resources for learning JavaScript technologies
 [Going surfing – Protect your Node.js app from Cross-Site Request Forgery](https://www.twilio.com/blog/2018/01/protect-your-node-js-app-from-cross-site-request-forgery.html)
 
 [GraphQL security in Node.js project](https://medium.com/graphql-mastery/graphql-security-in-node-js-project-4a4d39a1df20)
+
+## Process managers
+
+[How Do You Start a Node.js Server in Production?](https://dev.to/maximization/how-do-you-start-a-node-js-server-in-production-1cbf)
 
 ## Frontend libraries/frameworks
 
