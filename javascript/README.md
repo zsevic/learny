@@ -180,6 +180,16 @@ List of free resources for learning JavaScript technologies
 
 [Add Getting Started With NestJS](https://dev.to/santoshyadav198613/getting-started-with-nestjs-504h)
 
+## Deno
+
+[Deno 1.0](https://deno.land/v1)
+
+[Deno 1.0: What you need to know](https://blog.logrocket.com/deno-1-0-what-you-need-to-know/)
+
+[Deno: Node.js Killer? Introduction & Demo](https://dev.to/codestackr/deno-node-js-killer-introduction-demo-ryan-dahl-3cdl)
+
+[The Deno Handbook: A TypeScript Runtime Tutorial with Code Examples](https://www.freecodecamp.org/news/the-deno-handbook/)
+
 ## Security
 
 [23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
@@ -207,6 +217,8 @@ List of free resources for learning JavaScript technologies
 [A Complete Beginner's Guide to React Router (including Router Hooks)](https://www.ibrahima-ndaw.com/blog/the-complete-guide-to-react-router/)
 
 [8 simple steps to start testing React Apps using React Testing Library and Jest](https://dev.to/ibrahima92/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest-3922)
+
+[React Testing Crash Course](https://dev.to/emarsys/react-testing-crash-course-ccl)
 
 [How to replace Component lifecycle with useEffect hook in React?](https://www.ibrahima-ndaw.com/blog/replace-component-lifecycle-with-useEffect/)
 
@@ -491,6 +503,12 @@ List of free resources for learning JavaScript technologies
 [Flying a Drone with React and Node.js](https://www.youtube.com/watch?v=JzFvGf7Ywkk&t=3s)
 
 [NO, you most probably don’t need Express in your Node.js REST API](https://medium.com/car2godevs/there-are-expressjs-alternatives-590d14c58c1c)
+
+## Newsletters
+
+[Node Weekly](https://nodeweekly.com/)
+
+[Deno Weekly](https://denoweekly.com/)
 
 ## Websites with interactive courses
 
