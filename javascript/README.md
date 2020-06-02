@@ -164,6 +164,8 @@ List of free resources for learning JavaScript technologies
 
 [How to build a web crawler with Node](https://dev.to/bnevilleoneill/how-to-build-a-web-crawler-with-node-3hn2)
 
+[How to Optimize Node Requests with Simple Caching Strategies](https://www.designmycodes.com/examples/how-to-optimize-node-requests-with-simple-caching-strategies.html)
+
 ### CLI
 
 [How to make beautiful, simple CLI apps with Node](https://dev.to/hugo__df/how-to-make-beautiful-simple-cli-apps-with-node-c1b)
@@ -189,6 +191,8 @@ List of free resources for learning JavaScript technologies
 [Deno: Node.js Killer? Introduction & Demo](https://dev.to/codestackr/deno-node-js-killer-introduction-demo-ryan-dahl-3cdl)
 
 [The Deno Handbook: A TypeScript Runtime Tutorial with Code Examples](https://www.freecodecamp.org/news/the-deno-handbook/)
+
+[From Node to Deno](https://dev.to/aralroca/from-node-to-deno-5gpn)
 
 ## Security
 
@@ -351,6 +355,8 @@ List of free resources for learning JavaScript technologies
 [Deploying a Node App to DigitalOcean](https://medium.com/@kauffmanes/deploying-a-node-app-to-digitalocean-87533c107cb3)
 
 [How to get started using Firebase Hosting](https://medium.freecodecamp.org/how-to-get-started-using-firebase-hosting-439d4bd45cb6)
+
+[Host Your Personal Projects on a Single VPS](https://maximorlov.com/host-your-personal-projects-on-a-single-vps/)
 
 ## Serverless
 
