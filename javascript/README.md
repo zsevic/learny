@@ -270,6 +270,12 @@ List of free resources for learning JavaScript technologies
 
 ## API
 
+### REST
+
+[Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
+
+[How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://www.freecodecamp.org/news/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9/)
+
 ### GraphQL
 
 [How to set up a GraphQL Server using Node.js, Express & MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474)
@@ -279,8 +285,6 @@ List of free resources for learning JavaScript technologies
 [GraphQL - React + Apollo](https://www.howtographql.com/react-apollo/0-introduction/)
 
 [Getting started - Apollo Server](https://www.apollographql.com/docs/apollo-server/v2/getting-started.html)
-
-[How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://www.freecodecamp.org/news/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9/)
 
 [GraphQL Server Tutorial with Apollo Server and Express](https://www.robinwieruch.de/graphql-apollo-server-tutorial/)
 
@@ -492,6 +496,8 @@ List of free resources for learning JavaScript technologies
 
 [How to Dockerize a Node.js application](https://buddy.works/guides/how-dockerize-node-application)
 
+[Reducing Docker's image size while creating an offline version of Carbon.now.sh](https://lengrand.fr/reducing-dockers-image-size-while-creating-an-offline-version-of-carbon-now-sh/)
+
 ### Docker compose
 
 [Getting started with Docker for local Node.js development](https://medium.com/@francoisromain/getting-started-with-docker-for-local-node-js-development-192ceca18781)
@@ -509,6 +515,8 @@ List of free resources for learning JavaScript technologies
 [Flying a Drone with React and Node.js](https://www.youtube.com/watch?v=JzFvGf7Ywkk&t=3s)
 
 [NO, you most probably don’t need Express in your Node.js REST API](https://medium.com/car2godevs/there-are-expressjs-alternatives-590d14c58c1c)
+
+[Choose between Formidable, Busboy, Multer and Multiparty for processing file uploads](https://bytearcher.com/articles/formidable-vs-busboy-vs-multer-vs-multiparty/)
 
 ## Newsletters
 
