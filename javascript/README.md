@@ -508,6 +508,12 @@ List of free resources for learning JavaScript technologies
 
 [How to create a full stack React/Express/MongoDB app using Docker](https://medium.freecodecamp.org/create-a-fullstack-react-express-mongodb-app-using-docker-c3e3e21c4074)
 
+### Kubernetes
+
+[Running a Node.js app with Docker, Kubernetes, and Minikube](https://dev.to/molamk/running-a-node-js-app-with-docker-kubernetes-and-minikube-10d4)
+
+[Containerizing a Node.js API & Using Docker with Kubernetes and Minikube](https://dev.to/nickparsons/containerizing-a-nodejs-api--using-docker-with-kubernetes-and-minikube-16o9)
+
 ## Miscellaneous
 
 [Building a Node.js application on Android - Part 1: Termux, Vim and Node.js](https://medium.freecodecamp.org/building-a-node-js-application-on-android-part-1-termux-vim-and-node-js-dfa90c28958f)
