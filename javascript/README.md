@@ -258,6 +258,8 @@ List of free resources for learning JavaScript technologies
 
 ## Databases
 
+[Active Record vs Data Mapper](https://orkhan.gitbook.io/typeorm/docs/active-record-data-mapper)
+
 ### MongoDB
 
 [The MongoDB basics tutorial](https://flaviocopes.com/mongodb/)
