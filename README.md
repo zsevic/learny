@@ -2,9 +2,10 @@
 
 Lists of free resources for learning various technologies
 
-- [JavaScript](./javascript)
-- [git](./git)
 - [blockchain](./blockchain)
 - [data science](./data-science)
-- [security](./security)
+- [DevOps](./devops)
+- [git](./git)
+- [JavaScript](./javascript)
 - [Python](./python)
+- [security](./security)
