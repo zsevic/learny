@@ -166,6 +166,8 @@ List of free resources for learning JavaScript technologies
 
 [How to Optimize Node Requests with Simple Caching Strategies](https://www.designmycodes.com/examples/how-to-optimize-node-requests-with-simple-caching-strategies.html)
 
+[Graceful Shutdown with NodeJS and Terminus](https://dev.to/wakeupmh/graceful-shutdown-with-nodejs-and-terminus-1gjn)
+
 ### CLI
 
 [How to make beautiful, simple CLI apps with Node](https://dev.to/hugo__df/how-to-make-beautiful-simple-cli-apps-with-node-c1b)
