@@ -130,6 +130,8 @@ List of free resources for learning JavaScript technologies
 
 [An Overview of What Was New in Node 12](https://tsh.io/blog/new-node-js-features/)
 
+[Creating an Application Performance Monitor Using Node 14 New and Experimental Features](https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b)
+
 [Debug Your Node.js App in 60 Seconds](https://dev.to/john_papa/debug-your-nodejs-app-in-60-seconds-5cni)
 
 [A Practical Guide to Memory Leaks in Node.js](https://www.arbazsiddiqui.me/a-practical-guide-to-memory-leaks-in-nodejs/)
