@@ -372,6 +372,8 @@ List of free resources for learning JavaScript technologies
 
 [Express.js and AWS Lambda — a serverless love story](https://medium.freecodecamp.org/express-js-and-aws-lambda-a-serverless-love-story-7c77ba0eaa35)
 
+[Building Serverless GraphQL API in Node with Express and Netlify](https://css-tricks.com/building-serverless-graphql-api-in-node-with-express-and-netlify/)
+
 ## Bots
 
 [Creating a simple Twitter Bot in NodeJs in 20 lines of code](https://chatbotslife.com/creating-a-twitter-bot-in-nodejs-in-20-lines-of-code-da9d724ecd98)
