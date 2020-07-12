@@ -234,13 +234,9 @@ List of free resources for learning JavaScript technologies
 
 [How to lift your React App performance using Lazy Loading?](https://www.ibrahima-ndaw.com/blog/lazy-loading-using-react/)
 
-#### Redux
+#### Gatsby
 
-[Learn Redux In One Video - Redux / React Tutorial](https://www.youtube.com/watch?v=9fHQI-dt7QU)
-
-[7 steps to understand React Redux](https://dev.to/ibrahima92/7-steps-to-understand-react-redux-121j)
-
-[Redux VS React Context: Which one should you choose?](https://www.ibrahima-ndaw.com/blog/redux-vs-react-context-which-one-should-you-choose/)
+[How I Created My Blog With Gatsby](https://dev.to/mouhamedaly/how-i-created-my-blog-with-gatsby-1762)
 
 ### Angular
 
@@ -257,6 +253,16 @@ List of free resources for learning JavaScript technologies
 [Getting Started With Vue Router](https://scotch.io/tutorials/getting-started-with-vue-router)
 
 [How you can test your Vue.js apps in less than seven minutes](https://medium.freecodecamp.org/testing-vue-js-applications-vue-test-utils-39ec26ddaa4e)
+
+## State management
+
+### Redux
+
+[Learn Redux In One Video - Redux / React Tutorial](https://www.youtube.com/watch?v=9fHQI-dt7QU)
+
+[7 steps to understand React Redux](https://dev.to/ibrahima92/7-steps-to-understand-react-redux-121j)
+
+[Redux VS React Context: Which one should you choose?](https://www.ibrahima-ndaw.com/blog/redux-vs-react-context-which-one-should-you-choose/)
 
 ## Databases
 
