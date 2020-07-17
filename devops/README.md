@@ -2,7 +2,15 @@
 
 List of free resources for learning DevOps technologies
 
-## Kubernetes
+## Containers
+
+### Docker
+
+[The Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
+
+## Container Orchestration
+
+### Kubernetes
 
 [Learn Kubernetes, Part I, Basics, Deployment and Minikube](https://dev.to/azure/kubernetes-from-the-beginning-part-i-4ifd)
 
