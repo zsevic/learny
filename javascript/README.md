@@ -360,6 +360,8 @@ List of free resources for learning JavaScript technologies
 
 [The Best Explanation of JavaScript Reactivity](https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d)
 
+[Learn RxJS](https://www.learnrxjs.io/)
+
 [RxJS by Example](https://codeburst.io/rxjs-by-example-part-1-ff7f1530071c)
 
 [Reactive programming and Observable sequences with RxJS in Node.js](https://medium.freecodecamp.org/rxjs-and-node-8f4e0acebc7c)
