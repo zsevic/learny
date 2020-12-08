@@ -4,3 +4,4 @@ repository: zsevic/learny
 theme: jekyll-theme-midnight
 plugins:
   - jemoji
+google_analytics: UA-112488061-1
