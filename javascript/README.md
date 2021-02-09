@@ -254,6 +254,8 @@ List of free resources for learning JavaScript technologies
 
 [How you can test your Vue.js apps in less than seven minutes](https://medium.freecodecamp.org/testing-vue-js-applications-vue-test-utils-39ec26ddaa4e)
 
+[Firebase + Vue → Track Users Location Real-Time On The Google Maps](https://softauthor.com/vue-firebase-track-users-location-real-time-on-the-google-maps/)
+
 ## State management
 
 ### Redux
