@@ -36,6 +36,8 @@ List of free resources for learning JavaScript technologies
 
 [7 Types of Native Errors in JavaScript You Should Know](https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492)
 
+[Don't use functions as callbacks unless they're designed for it](https://jakearchibald.com/2021/function-callback-risks/)
+
 ### Miscellaneous
 
 [Practical Ways to Write Better JavaScript](https://stackoverflow.blog/2019/09/12/practical-ways-to-write-better-javascript/)
