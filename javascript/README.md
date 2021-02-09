@@ -340,6 +340,12 @@ List of free resources for learning JavaScript technologies
 
 [How to integrate Redux into your application with React Native and Expo](https://medium.freecodecamp.org/how-to-integrate-redux-into-your-application-with-react-native-and-expo-ec37c9ca6033)
 
+### Ionic
+
+[Ionic + React + Firebase](https://www.youtube.com/playlist?list=PLYxzS__5yYQlhvyLXSKhv4oAvl06MInSE)
+
+[Ionic5 + Firebase + React](https://www.youtube.com/playlist?list=PLYxzS__5yYQkxcATbHyMA6wfEinKL6jPD)
+
 ## WebSockets
 
 ### socket.io
