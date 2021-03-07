@@ -174,9 +174,11 @@ List of free resources for learning JavaScript technologies
 
 ### CLI
 
+[A Guide to CLIs with Node.js](https://dev.to/akashshyam/a-guide-to-clis-with-node-js-2obn?signin=true)
+
 [How to make beautiful, simple CLI apps with Node](https://dev.to/hugo__df/how-to-make-beautiful-simple-cli-apps-with-node-c1b)
 
-[How to build a CLI tool in NodeJS](https://medium.freecodecamp.org/how-to-build-a-cli-tool-in-nodejs-bc4f67d898ec)
+[How to build a CLI tool in NodeJS](https://www.freecodecamp.org/news/how-to-build-a-cli-tool-in-nodejs-bc4f67d898ec/)
 
 ## Express.js
 
