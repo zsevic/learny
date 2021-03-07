@@ -324,11 +324,9 @@ List of free resources for learning JavaScript technologies
 
 #### RabbitMQ
 
-[An introduction to RabbitMQ, a broker that deals in messages](https://medium.freecodecamp.org/rabbitmq-9e8f78194993)
+[An introduction to RabbitMQ, a broker that deals in messages](https://www.freecodecamp.org/news/rabbitmq-9e8f78194993/)
 
-[Messaging with RabbitMQ in Node.js](https://www.devbridge.com/articles/messaging-with-rabbitmq-in-node-js/)
-
-[Getting started with RabbitMQ and Node.js with example](https://thatcoder.space/getting-started-with-rabbitmq-and-node-js/)
+[Understanding message queuing systems using RabbitMQ](https://blog.logrocket.com/understanding-message-queuing-systems-using-rabbitmq/)
 
 ## Desktop apps
 
