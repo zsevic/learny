@@ -242,6 +242,8 @@ List of free resources for learning JavaScript technologies
 
 [How I Created My Blog With Gatsby](https://dev.to/mouhamedaly/how-i-created-my-blog-with-gatsby-1762)
 
+[Creating a Gatsby blog from scratch](https://blog.logrocket.com/creating-a-gatsby-blog-from-scratch/)
+
 ### Angular
 
 [An Angular 5 Tutorial: Step by Step Guide to Your First Angular 5 App](https://www.toptal.com/angular/angular-5-tutorial)
