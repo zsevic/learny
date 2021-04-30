@@ -126,6 +126,8 @@ List of free resources for learning JavaScript technologies
 
 [All about Core NodeJS — Part 1](https://codeburst.io/all-about-core-nodejs-part-1-b9f4b0a83278)
 
+[How to Use ECMAScript Modules in Node.js](https://dmitripavlutin.com/ecmascript-modules-nodejs/)
+
 [Your Guide to Building Beautiful Node.js Applications](http://thenodeway.io/)
 
 [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
