@@ -192,6 +192,8 @@ List of free resources for learning JavaScript technologies
 
 [Add Getting Started With NestJS](https://dev.to/santoshyadav198613/getting-started-with-nestjs-504h)
 
+[How to Use Versioning in NestJS](https://javascript.plainenglish.io/how-to-use-versioning-in-nestjs-45d7c413e72b)
+
 ## Deno
 
 [Deno 1.0](https://deno.land/v1)
