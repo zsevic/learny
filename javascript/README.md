@@ -300,6 +300,8 @@ List of free resources for learning JavaScript technologies
 
 [How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://www.freecodecamp.org/news/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9/)
 
+[Build Interactive API Documentations Easily with Swagger](https://lo-victoria.com/build-interactive-api-documentations-easily-with-swagger)
+
 ### GraphQL
 
 [How to set up a GraphQL Server using Node.js, Express & MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474)
