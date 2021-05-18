@@ -118,4 +118,6 @@ An introduction to cryptography and cryptanalysis [Serbian](http://poincare.matf
 
 [How to Build a Decentralized Full Stack App in Ethereum and React](https://medium.com/@takleakshar/how-to-build-a-decentralized-full-stack-app-in-ethereum-and-react-42e63d45a208)
 
+[The Complete Guide to Full Stack Ethereum Development](https://dabit3.hashnode.dev/the-complete-guide-to-full-stack-ethereum-development)
+
 [Naivechain](https://github.com/lhartikk/naivechain)
