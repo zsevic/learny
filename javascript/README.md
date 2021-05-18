@@ -328,6 +328,8 @@ List of free resources for learning JavaScript technologies
 
 [NSQ Tutorial: Build a simple message queue using NSQ](https://dev.to/vguleaev/nsq-tutorial-build-a-simple-message-queue-using-nsq-43eh)
 
+[How to Implement a Simple Task Queue in Node.js](https://www.sitepoint.com/implement-task-queue-node-js/)
+
 #### Kafka
 
 [Getting started with Kafka and Node.js - Setup with example](https://thatcoder.space/getting-started-with-kafka-and-node-js-with-example/)
