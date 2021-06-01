@@ -58,6 +58,8 @@ List of free resources for learning JavaScript technologies
 
 [How To Implement Async And Await With Generators](https://medium.freecodecamp.org/how-to-implement-async-and-await-with-generators-11ab0859010f)
 
+[Web Workers in JavaScripts](https://adarsh-thakur.hashnode.dev/web-workers-in-javascripts)
+
 ## ES6+
 
 [ES6 for beginners with example](https://dev.to/srebalaji/es6-for-beginners-with-example-c7)
