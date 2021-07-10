@@ -134,6 +134,8 @@ List of free resources for learning JavaScript technologies
 
 [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
 
+[Exploring the Possibilities of Node’s Virtual Machine Module](https://javascript.plainenglish.io/node-js-vm-5727c269f8ec)
+
 [An Overview of What Was New in Node 12](https://tsh.io/blog/new-node-js-features/)
 
 [Creating an Application Performance Monitor Using Node 14 New and Experimental Features](https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b)
