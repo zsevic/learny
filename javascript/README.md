@@ -422,6 +422,10 @@ List of free resources for learning JavaScript technologies
 
 [Add Wit.ai to Your Facebook Messenger bot](https://github.com/jw84/messenger-bot-witai-tutorial)
 
+## Logging
+
+[Best Practices for Logging in Node.js](https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html)
+
 ## Progressive Web Apps
 
 [An introduction to Progressive Web Apps](https://medium.freecodecamp.org/an-introduction-to-progressive-web-apps-6aa75f32816f)
