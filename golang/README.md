@@ -6,6 +6,8 @@ List of free resources for learning Golang
 
 - [How to Write Go Code](https://golang.org/doc/code.html)
 
+- [Go by Example](https://gobyexample.com/)
+
 - [Effective Go](https://golang.org/doc/effective_go.html)
 
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
