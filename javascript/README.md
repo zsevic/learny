@@ -150,6 +150,8 @@ List of free resources for learning JavaScript technologies
 
 [Scaling Node.js Applications](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
 
+[Get started with validation in Node.js](https://simonplend.com/get-started-with-validation-in-node-js/)
+
 [How to get create-react-app to work with a Node.js back-end API](https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0)
 
 [Node js Elastic Search Tutorial Example](https://appdividend.com/2018/06/29/node-js-elastic-search-tutorial-example/)
