@@ -440,6 +440,8 @@ List of free resources for learning JavaScript technologies
 
 [A quick but complete guide to IndexedDB and storing data in browsers](https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501)
 
+[How to provide your own in-app install experience](https://web.dev/customize-install/)
+
 ## Data visualization
 
 [Learn D3.js in 5 minutes](https://medium.freecodecamp.org/learn-d3-js-in-5-minutes-c5ec29fb0725)
