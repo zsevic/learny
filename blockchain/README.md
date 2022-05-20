@@ -78,11 +78,11 @@ An introduction to cryptography and cryptanalysis [Serbian](http://poincare.matf
 
 [Mist](https://github.com/ethereum/mist)
 
-[Web3.js](https://github.com/ethereum/web3.js)
+[Ethers](https://docs.ethers.io/v5/)
 
 [MetaMask](https://github.com/MetaMask/metamask-extension)
 
-[Truffle](https://github.com/trufflesuite/truffle)
+[Hardhat](https://hardhat.org/getting-started/)
 
 [Ganache CLI](https://github.com/trufflesuite/ganache-cli)
 
