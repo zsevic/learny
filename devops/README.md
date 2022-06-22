@@ -2,6 +2,8 @@
 
 List of free resources for learning DevOps technologies
 
+[Introduction to DevOps](https://www.codecademy.com/learn/introduction-to-dev-ops)
+
 ## Containers
 
 ### Docker
