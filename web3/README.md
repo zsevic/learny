@@ -36,6 +36,8 @@ List of free resources for learning Web3 technologies
 
 ## NFTs
 
+[How to Build Your First NFT](https://www.web3.university/tracks/build-your-first-nft)
+
 ### Marketplaces
 
 [OpenSea](https://opensea.io/)
