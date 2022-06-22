@@ -2,6 +2,8 @@
 
 List of free resources for learning Web3 technologies
 
+[Binance Academy](https://academy.binance.com/en)
+
 ## Smart contracts
 
 [Solidity](https://docs.soliditylang.org/en/v0.8.15/)
