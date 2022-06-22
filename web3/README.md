@@ -14,6 +14,10 @@ List of free resources for learning Web3 technologies
 
 [MetaMask](https://metamask.io/)
 
+[Trust wallet](https://trustwallet.com/)
+
+[Phantom](https://phantom.app/)
+
 ## Tools
 
 [Hardhat](https://hardhat.org/getting-started/)
@@ -29,3 +33,15 @@ List of free resources for learning Web3 technologies
 ## Platforms
 
 [Alchemy](https://alchemy.com/)
+
+## NFTs
+
+### Marketplaces
+
+[OpenSea](https://opensea.io/)
+
+[LooksRare](https://looksrare.org/)
+
+[X2Y2](https://x2y2.io/)
+
+[Magic Eden](https://magiceden.io/)
