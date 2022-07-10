@@ -182,6 +182,8 @@ List of free resources for learning JavaScript technologies
 
 [The Node.js Application Maintainer Guide](https://nodesource.com/blog/the-Node.js-application-maintainer-guide)
 
+[Node.js Import Aliases](https://abhijithota.me/posts/node-import-aliases/)
+
 ### CLI
 
 [A Guide to CLIs with Node.js](https://dev.to/akashshyam/a-guide-to-clis-with-node-js-2obn?signin=true)
