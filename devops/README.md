@@ -16,6 +16,12 @@ List of free resources for learning DevOps technologies
 
 [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
 
+## Web servers
+
+### NGINX
+
+[The NGINX Handbook – Learn NGINX for Beginners](https://www.freecodecamp.org/news/the-nginx-handbook)
+
 ## Infrastructure Provisioning
 
 ### Terraform
