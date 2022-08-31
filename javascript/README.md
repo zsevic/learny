@@ -184,6 +184,8 @@ List of free resources for learning JavaScript technologies
 
 [Node.js Import Aliases](https://abhijithota.me/posts/node-import-aliases/)
 
+[Popular Node.js patterns and tools to re-consider](https://practica.dev/blog/popular-nodejs-pattern-and-tools-to-reconsider/)
+
 ### CLI
 
 [A Guide to CLIs with Node.js](https://dev.to/akashshyam/a-guide-to-clis-with-node-js-2obn?signin=true)
