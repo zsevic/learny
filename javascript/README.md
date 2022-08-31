@@ -354,6 +354,10 @@ List of free resources for learning JavaScript technologies
 
 [Understanding message queuing systems using RabbitMQ](https://blog.logrocket.com/understanding-message-queuing-systems-using-rabbitmq/)
 
+## Tracing
+
+[How to use OpenTelemetry to trace Node.js applications](https://developers.redhat.com/articles/2022/08/23/how-use-opentelemetry-trace-nodejs-applications)
+
 ## Desktop apps
 
 ### Electron
