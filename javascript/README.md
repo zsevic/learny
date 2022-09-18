@@ -466,6 +466,8 @@ List of free resources for learning JavaScript technologies
 
 [Create Your First Github Package](https://dev.to/dalenguyen/create-your-first-github-package-564f)
 
+[Best practices for creating a modern npm package](https://snyk.io/blog/best-practices-create-modern-npm-package/)
+
 ### Npm
 
 [Npm](https://github.com/npm/npm)
