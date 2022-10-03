@@ -16,6 +16,8 @@ List of free resources for learning JavaScript technologies
 
 [The Modern JavaScript Tutorial](https://javascript.info/)
 
+[JavaScript Visualized](https://dev.to/lydiahallie/series/3341)
+
 [What do the three dots (...) mean in JavaScript?](https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript/)
 
 [What you should know about JavaScript arrays](https://thomlom.dev/what-you-should-know-about-js-arrays/)
