@@ -96,7 +96,9 @@ List of free resources for learning JavaScript technologies
 
 ## Design patterns
 
-[Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+[Patterns](https://www.patterns.dev/)
+
+[Learning JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/)
 
 [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
 
