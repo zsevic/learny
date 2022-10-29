@@ -260,6 +260,8 @@ List of free resources for learning JavaScript technologies
 
 [How to lift your React App performance using Lazy Loading?](https://www.ibrahima-ndaw.com/blog/lazy-loading-using-react/)
 
+[How to Handle Errors in React](https://pragmaticpineapple.com/how-to-hande-errors-in-react/)
+
 #### Gatsby
 
 [How I Created My Blog With Gatsby](https://dev.to/mouhamedaly/how-i-created-my-blog-with-gatsby-1762)
