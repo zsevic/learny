@@ -316,6 +316,8 @@ List of free resources for learning JavaScript technologies
 
 ## API
 
+[Why Your Backend in Node.JS Needs an API Layer and How to Build It](https://semaphoreci.com/blog/node-js-api-layer)
+
 ### REST
 
 [Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
