@@ -226,6 +226,8 @@ List of free resources for learning JavaScript technologies
 
 ## Security
 
+[Node.js Security Best Practices](https://nodejs.org/en/docs/guides/security/)
+
 [23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
 
 [Going surfing – Protect your Node.js app from Cross-Site Request Forgery](https://www.twilio.com/blog/2018/01/protect-your-node-js-app-from-cross-site-request-forgery.html)
@@ -417,6 +419,8 @@ List of free resources for learning JavaScript technologies
 [How to get started using Firebase Hosting](https://medium.freecodecamp.org/how-to-get-started-using-firebase-hosting-439d4bd45cb6)
 
 [Host Your Personal Projects on a Single VPS](https://maximorlov.com/host-your-personal-projects-on-a-single-vps/)
+
+[Deploying a simple Node.js app with HTTPS on cloud providers in 2022](https://medium.com/eleven-sh/deploying-a-simple-node-js-app-with-https-on-cloud-providers-in-2022-heroku-render-fly-io-aws-9358294803c5)
 
 ## Serverless
 
