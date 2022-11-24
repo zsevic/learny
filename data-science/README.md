@@ -22,8 +22,6 @@ List of free resources for learning data science
 
 - [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
-- [Learn Machine Learning using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/machine-learning)
-
 - [Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
 
 - [Theory of Neural Networks - Deep Learning Without Frameworks](https://www.youtube.com/watch?v=u7n9t1cBei8)
