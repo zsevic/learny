@@ -20,8 +20,6 @@ List of free resources for learning JavaScript technologies
 
 [What do the three dots (...) mean in JavaScript?](https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript/)
 
-[What you should know about JavaScript arrays](https://thomlom.dev/what-you-should-know-about-js-arrays/)
-
 [The magic of the “this” keyword in JavaScript](https://medium.freecodecamp.org/the-magic-of-the-this-keyword-in-javascript-ce3ce571013e)
 
 [The difference between call / apply / bind](https://medium.com/@ivansifrim/the-differences-between-call-apply-bind-276724bb825b)
@@ -31,8 +29,6 @@ List of free resources for learning JavaScript technologies
 [When to use a function declaration vs. a function expression](https://medium.freecodecamp.org/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0)
 
 [3 Ways to Set Default Value in JavaScript](https://dev.to/samanthaming/3-ways-to-set-default-value-in-javascript-2253)
-
-[A basic introduction to JavaScript variable definitions and hoisting](https://medium.freecodecamp.org/a-basic-introduction-to-javascript-variable-definitions-and-hoisting-93aa38e742eb)
 
 [5 Tips to Write Better Conditionals in JavaScript](https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript)
 
@@ -174,8 +170,6 @@ List of free resources for learning JavaScript technologies
 
 [How to create a Task Scheduler in NodeJS](https://dev.to/andre347/how-to-create-a-task-scheduler-in-nodejs-4lo2)
 
-[Patching your node_modules](https://opensource.christmas/2019/4)
-
 [Building Distributed Systems with Node.js](https://www.youtube.com/watch?v=GUtd-zEDgjQ)
 
 [How to build a web crawler with Node](https://dev.to/bnevilleoneill/how-to-build-a-web-crawler-with-node-3hn2)
@@ -310,8 +304,6 @@ List of free resources for learning JavaScript technologies
 
 [Introduction to Mongoose for MongoDB](https://dev.to/theoutlander/introduction-to-mongoose-for-mongodb--3c30)
 
-[Aggregation in Mongodb](https://medium.com/@paulrohan/aggregation-in-mongodb-8195c8624337)
-
 [How to automate database migrations in MongoDB](https://medium.freecodecamp.org/how-to-automate-database-migrations-in-mongodb-d6b68efe084e)
 
 ## API
@@ -340,13 +332,11 @@ List of free resources for learning JavaScript technologies
 
 ### gRPC
 
-[Building a gRPC service with Node.js](https://codelabs.developers.google.com/codelabs/cloud-grpc/#0)
-
 [Node, gRPC, and Postgres](https://mherman.org/blog/node-grpc-postgres/)
 
 ## Microservices
 
-[Microservices / event-driven architecture using Node.js](https://thatcoder.space/microservices-event-driven-architecture/)
+
 
 ### Messaging
 
@@ -356,7 +346,7 @@ List of free resources for learning JavaScript technologies
 
 #### Kafka
 
-[Getting started with Kafka and Node.js - Setup with example](https://thatcoder.space/getting-started-with-kafka-and-node-js-with-example/)
+
 
 #### RabbitMQ
 
@@ -396,7 +386,7 @@ List of free resources for learning JavaScript technologies
 
 ## Server-Sent Events
 
-[Using Server-Sent Events in Node.js to Build a Realtime App](https://alligator.io/nodejs/server-sent-events-build-realtime-app/)
+
 
 ## Paradigms
 
@@ -470,8 +460,6 @@ List of free resources for learning JavaScript technologies
 
 [What's what? - Package.json cheatsheet](https://dev.to/areknawo/what-s-what-package-json-cheatsheet-1g28)
 
-[Introduction to NPM Scripts](https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633)
-
 [How to ignore files from your npm package](https://dev.to/zellwk/how-to-ignore-files-from-your-npm-package-2fbm)
 
 [5 package.json magic scripts that you don't use!](https://dev.to/kumar_abhirup/5-package-json-magic-scripts-that-you-don-t-use-4n3p)
@@ -531,8 +519,6 @@ List of free resources for learning JavaScript technologies
 ## Build system
 
 [Webpack](https://github.com/webpack/webpack)
-
-[Webpack 4 tutorial: All You Need to Know from 0 Conf to Production Mode](https://dev.to/valentinogagliardi/webpack-4-tutorial-all-you-need-to-know-from-0-conf-to-production-mode-40bc)
 
 [A collection of simple demos of Webpack](https://github.com/ruanyf/webpack-demos)
 
