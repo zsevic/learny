@@ -602,8 +602,6 @@ List of free resources for learning JavaScript technologies
 
 ## Websites with useful articles
 
-[blog.js](https://blog.vsimonovski.me/)
-
 [Pragmatic Pineapple 🍍](https://pragmaticpineapple.com/)
 
 [freecodecamp/news](https://www.freecodecamp.org/news/)
