@@ -184,6 +184,8 @@ List of free resources for learning JavaScript technologies
 
 [Popular Node.js patterns and tools to re-consider](https://practica.dev/blog/popular-nodejs-pattern-and-tools-to-reconsider/)
 
+[Managing your Node.js installation](https://maxrozen.com/managing-your-node-installation)
+
 ### CLI
 
 [A Guide to CLIs with Node.js](https://dev.to/akashshyam/a-guide-to-clis-with-node-js-2obn?signin=true)
