@@ -194,11 +194,13 @@ List of free resources for learning JavaScript technologies
 
 [How to build a CLI tool in NodeJS](https://www.freecodecamp.org/news/how-to-build-a-cli-tool-in-nodejs-bc4f67d898ec/)
 
-## Express.js
+## Frameworks
+
+### Express.js
 
 [Learn Express](https://www.codecademy.com/learn/learn-express)
 
-## NestJS
+### NestJS
 
 [A Crash Course in NestJS](https://medium.com/javascript-in-plain-english/a-crash-course-in-nestjs-cccfc0090a16)
 
@@ -207,6 +209,10 @@ List of free resources for learning JavaScript technologies
 [API with NestJS](https://wanago.io/courses/api-with-nestjs/)
 
 [How to Use Versioning in NestJS](https://javascript.plainenglish.io/how-to-use-versioning-in-nestjs-45d7c413e72b)
+
+### Fastify
+
+[Getting Started with Fastify for Node.js](https://blog.appsignal.com/2023/04/26/getting-started-with-fastify-for-nodejs.html)
 
 ## Deno
 
