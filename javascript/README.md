@@ -214,6 +214,8 @@ List of free resources for learning JavaScript technologies
 
 [Getting Started with Fastify for Node.js](https://blog.appsignal.com/2023/04/26/getting-started-with-fastify-for-nodejs.html)
 
+[Advanced Fastify: Hooks, Middleware, and Decorators](https://blog.appsignal.com/2023/05/24/advanced-fastify-hooks-middleware-and-decorators.html)
+
 ## Deno
 
 [Deno 1.0](https://deno.land/v1)
