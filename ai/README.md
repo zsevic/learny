@@ -16,6 +16,8 @@ List of free resources for learning AI technologies
 
 [The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts](https://fka.gumroad.com/l/art-of-chatgpt-prompting)
 
+[Intro to ChatGPT](https://www.codecademy.com/learn/intro-to-chatgpt)
+
 ## Midjourney
 
 [The Ultimate MidJourney Prompting Guide](https://www.youtube.com/watch?v=NBT7hJEZw4k&ab_channel=MattWolfe)
