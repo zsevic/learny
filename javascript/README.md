@@ -228,6 +228,10 @@ List of free resources for learning JavaScript technologies
 
 [From Node to Deno](https://dev.to/aralroca/from-node-to-deno-5gpn)
 
+## Bun
+
+[Migrating a TypeScript app from Node.js to Bun](https://blog.logrocket.com/migrating-typescript-app-node-js-bun/)
+
 ## Security
 
 [Node.js Security Best Practices](https://nodejs.org/en/docs/guides/security/)
