@@ -1,4 +1,4 @@
-# [learny](../)
+# [Learny](../)
 
 List of free resources for learning Web3 technologies
 

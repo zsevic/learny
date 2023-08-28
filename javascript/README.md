@@ -1,4 +1,4 @@
-# [learny](../)
+# [Learny](../)
 
 List of free resources for learning JavaScript technologies
 
@@ -350,8 +350,6 @@ List of free resources for learning JavaScript technologies
 
 ## Microservices
 
-
-
 ### Messaging
 
 [NSQ Tutorial: Build a simple message queue using NSQ](https://dev.to/vguleaev/nsq-tutorial-build-a-simple-message-queue-using-nsq-43eh)
@@ -359,8 +357,6 @@ List of free resources for learning JavaScript technologies
 [How to Implement a Simple Task Queue in Node.js](https://www.sitepoint.com/implement-task-queue-node-js/)
 
 #### Kafka
-
-
 
 #### RabbitMQ
 
@@ -399,8 +395,6 @@ List of free resources for learning JavaScript technologies
 [You don't need express to get started with socket.io](https://dev.to/sadick/you-dont-need-express-to-get-started-with-socketio-4ieg)
 
 ## Server-Sent Events
-
-
 
 ## Paradigms
 

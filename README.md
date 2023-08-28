@@ -1,4 +1,4 @@
-# learny
+# Learny
 
 Lists of free resources for learning various technologies
 
