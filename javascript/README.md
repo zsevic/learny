@@ -144,6 +144,8 @@ List of free resources for learning JavaScript technologies
 
 [A Practical Guide to Memory Leaks in Node.js](https://www.arbazsiddiqui.me/a-practical-guide-to-memory-leaks-in-nodejs/)
 
+[Node.js includes built-in support for .env files](https://philna.sh/blog/2023/09/05/nodejs-supports-dotenv/)
+
 ### Miscellaneous
 
 [Refactoring node.js (Part 1)](https://dev.to/paulasantamaria/refactoring-node-js-part-1-42fe)
