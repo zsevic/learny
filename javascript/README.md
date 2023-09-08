@@ -326,6 +326,8 @@ List of free resources for learning JavaScript technologies
 
 [Why Your Backend in Node.JS Needs an API Layer and How to Build It](https://semaphoreci.com/blog/node-js-api-layer)
 
+[Notion API – Full Course for Beginners](https://www.youtube.com/watch?v=ec5m6t77eYM)
+
 ### REST
 
 [Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
