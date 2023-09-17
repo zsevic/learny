@@ -118,9 +118,11 @@ List of free resources for learning JavaScript technologies
 
 [Use TypeScript to Build a Node API with Express](https://developer.okta.com/blog/2018/11/15/node-express-typescript?fbclid=IwAR3Ei_UeM5kyajSy1vWpzikdqDhI-kLBBSdrMdDof6S8CFFJvwX43PVGpuU)
 
-## Node.js
+## Runtimes
 
-### Core
+### Node.js
+
+#### Core
 
 [The definitive Node.js handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 
@@ -146,7 +148,7 @@ List of free resources for learning JavaScript technologies
 
 [Node.js includes built-in support for .env files](https://philna.sh/blog/2023/09/05/nodejs-supports-dotenv/)
 
-### Miscellaneous
+#### Miscellaneous
 
 [Refactoring node.js (Part 1)](https://dev.to/paulasantamaria/refactoring-node-js-part-1-42fe)
 
@@ -188,13 +190,23 @@ List of free resources for learning JavaScript technologies
 
 [Managing your Node.js installation](https://maxrozen.com/managing-your-node-installation)
 
-### CLI
+### Deno
 
-[A Guide to CLIs with Node.js](https://dev.to/akashshyam/a-guide-to-clis-with-node-js-2obn?signin=true)
+[Deno 1.0](https://deno.land/v1)
 
-[How to make beautiful, simple CLI apps with Node](https://dev.to/hugo__df/how-to-make-beautiful-simple-cli-apps-with-node-c1b)
+[Deno 1.0: What you need to know](https://blog.logrocket.com/deno-1-0-what-you-need-to-know/)
 
-[How to build a CLI tool in NodeJS](https://www.freecodecamp.org/news/how-to-build-a-cli-tool-in-nodejs-bc4f67d898ec/)
+[Deno: Node.js Killer? Introduction & Demo](https://dev.to/codestackr/deno-node-js-killer-introduction-demo-ryan-dahl-3cdl)
+
+[The Deno Handbook: A TypeScript Runtime Tutorial with Code Examples](https://www.freecodecamp.org/news/the-deno-handbook/)
+
+[From Node to Deno](https://dev.to/aralroca/from-node-to-deno-5gpn)
+
+### Bun
+
+[Bun docs](https://bun.sh/docs)
+
+[Migrating a TypeScript app from Node.js to Bun](https://blog.logrocket.com/migrating-typescript-app-node-js-bun/)
 
 ## Frameworks
 
@@ -218,22 +230,6 @@ List of free resources for learning JavaScript technologies
 
 [Advanced Fastify: Hooks, Middleware, and Decorators](https://blog.appsignal.com/2023/05/24/advanced-fastify-hooks-middleware-and-decorators.html)
 
-## Deno
-
-[Deno 1.0](https://deno.land/v1)
-
-[Deno 1.0: What you need to know](https://blog.logrocket.com/deno-1-0-what-you-need-to-know/)
-
-[Deno: Node.js Killer? Introduction & Demo](https://dev.to/codestackr/deno-node-js-killer-introduction-demo-ryan-dahl-3cdl)
-
-[The Deno Handbook: A TypeScript Runtime Tutorial with Code Examples](https://www.freecodecamp.org/news/the-deno-handbook/)
-
-[From Node to Deno](https://dev.to/aralroca/from-node-to-deno-5gpn)
-
-## Bun
-
-[Migrating a TypeScript app from Node.js to Bun](https://blog.logrocket.com/migrating-typescript-app-node-js-bun/)
-
 ## Security
 
 [Node.js Security Best Practices](https://nodejs.org/en/docs/guides/security/)
@@ -247,6 +243,14 @@ List of free resources for learning JavaScript technologies
 ## Process managers
 
 [How Do You Start a Node.js Server in Production?](https://dev.to/maximization/how-do-you-start-a-node-js-server-in-production-1cbf)
+
+## CLI
+
+[A Guide to CLIs with Node.js](https://dev.to/akashshyam/a-guide-to-clis-with-node-js-2obn?signin=true)
+
+[How to make beautiful, simple CLI apps with Node](https://dev.to/hugo__df/how-to-make-beautiful-simple-cli-apps-with-node-c1b)
+
+[How to build a CLI tool in NodeJS](https://www.freecodecamp.org/news/how-to-build-a-cli-tool-in-nodejs-bc4f67d898ec/)
 
 ## Frontend libraries/frameworks
 
