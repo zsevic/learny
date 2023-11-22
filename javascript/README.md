@@ -8,8 +8,6 @@ List of free resources for learning JavaScript technologies
 
 [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
-[JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
-
 [The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
 
 [JavaScript30](https://javascript30.com/)
@@ -94,8 +92,6 @@ List of free resources for learning JavaScript technologies
 
 [Patterns](https://www.patterns.dev/)
 
-[Learning JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/)
-
 [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
 
 [NodeJS and Good Practices](https://blog.codeminer42.com/nodejs-and-good-practices-354e7d763626)
@@ -132,8 +128,6 @@ List of free resources for learning JavaScript technologies
 
 [How to Use ECMAScript Modules in Node.js](https://dmitripavlutin.com/ecmascript-modules-nodejs/)
 
-[Your Guide to Building Beautiful Node.js Applications](http://thenodeway.io/)
-
 [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
 
 [Exploring the Possibilities of Node’s Virtual Machine Module](https://javascript.plainenglish.io/node-js-vm-5727c269f8ec)
@@ -158,13 +152,9 @@ List of free resources for learning JavaScript technologies
 
 [How to get create-react-app to work with a Node.js back-end API](https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0)
 
-[Node js Elastic Search Tutorial Example](https://appdividend.com/2018/06/29/node-js-elastic-search-tutorial-example/)
-
 [Clustering & Inter Process Communication (IPC) in Node.js](https://medium.com/js-imaginea/clustering-inter-process-communication-ipc-in-node-js-748f981214e9)
 
 [Securing your Node js api with JSON Web Token](https://dev.to/medaymentn/securing-your-node-js-api-with-json-web-token-5o5)
-
-[Salt Hash passwords using NodeJS crypto](https://ciphertrick.com/2016/01/18/salt-hash-passwords-using-nodejs-crypto/)
 
 [Inspect your node application on a different machine](https://dev.to/attilavm/inspect-your-node-application-on-a-different-machine-3laf)
 
@@ -261,8 +251,6 @@ List of free resources for learning JavaScript technologies
 [How to Learn React — A roadmap from beginner to advanced](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
 
 [Create React apps with no build configuration](https://github.com/facebook/create-react-app)
-
-[How to Setup a Fresh React App](https://dev.to/oliverandrich/how-to-setup-a-fresh-react-app-5p0)
 
 [A Complete Beginner's Guide to React Router (including Router Hooks)](https://www.ibrahima-ndaw.com/blog/the-complete-guide-to-react-router/)
 
@@ -605,8 +593,6 @@ List of free resources for learning JavaScript technologies
 ## Newsletters
 
 [Node Weekly](https://nodeweekly.com/)
-
-[Deno Weekly](https://denoweekly.com/)
 
 ## Websites with interactive courses
 
