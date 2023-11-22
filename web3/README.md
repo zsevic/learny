@@ -8,8 +8,6 @@ List of free resources for learning Web3 technologies
 
 [Solidity](https://docs.soliditylang.org/en/v0.8.15/)
 
-[Contracts Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard)
-
 [How To Create Your First Smart Contract](https://www.web3.university/tracks/create-a-smart-contract)
 
 ## Wallets
